@@ -607,7 +607,7 @@ current_law_name = ""
 original_date = " "
 original_law = " "
 txtfiles = []
-for file in glob.glob("../feb_20191/*.txt"):
+for file in glob.glob("../feb_2019/*.txt"):
     txtfiles.append(file)
 
 txtfiles.sort()

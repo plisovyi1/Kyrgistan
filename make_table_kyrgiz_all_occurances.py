@@ -498,21 +498,23 @@ def check(name, index):
     a[index + 1][6] = which_title(title)
 
 
+    a[index + 1][7] = state_of_law(data, name)
+    if (a[index + 1][7] == "утратил силу" or a[index + 1][7] == "утратил силу в редакции закона"):
+        a[index + 1][9] = "утратил силу"
+        for prev_row in range (index + 2 - int(a[index + 1][8]), index + 1, 1):#dont forget to update all
+            a[prev_row][9] = "утратит силу"
+    if (a[index + 1][7] == "оригинал"):
+        original_date = a[index + 1][1]
+        original_law = a[index + 1][3]
 
-    a[index + 1][7] = scroop_doc(title, key_terms, excpetion_terms)
-    a[index + 1][8], dummy = occurances(title, key_terms, excpetion_terms)
-    a[index + 1][9] = state_of_law(data, name)
-    if (a[index + 1][9] == "утратил силу" or a[index + 1][9] == "утратил силу в редакции закона"):
-        a[index + 1][11] = "утратил силу"
-        for prev_row in range (index + 2 - int(a[index + 1][10]), index + 1, 1):#dont forget to update all
-            a[prev_row][11] = "утратит силу"
-    if (a[index + 1][9] == "оригинал"):
-        original_date = a[index + 1][5]
-        original_law = a[index + 1][6]
- 
-    a[index + 1][12] = original_date
-    a[index + 1][13] = original_law
-        
+
+    a[index + 1][10] = original_date
+    a[index + 1][11] = original_law
+    a[index + 1][12] = scroop_doc(title, key_terms, excpetion_terms)#in title
+    a[index + 1][13], dummy = occurances(title, key_terms, excpetion_terms)#in title
+
+
+
     a[index + 1][14] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
     a[index + 1][15] = matches
     a[index + 1][16] = non_unique_occurances
@@ -601,22 +603,19 @@ txtfiles.sort(key=len, reverse=False) # sorts by descending length
 
 
 
-categories = ["Name of file", "Date", "year", "language(tentative)", "type of law", "Title",
-              "Law Number", "Key Terms in Title", "Occurances in Title", "Repealed/Replaced",
-              "How Many Versions", "Would Lose Power", "original date", "original law number",
-              "link", "Religious or not", "Number of occurances", "Non Unique Occurances",
-              "Ratio of occurances", "Religious Institutions (Gov’t)", "Number of occurances",
-              "Ratio of occurances", "Religious Leaders & Clergy", "Number of occurances",
-              "Ratio of occurances", "Religious Organizations (non-Gov’t)","Number of occurances",
-              "Ratio of occurances",
-              "Religious Education","Number of occurances",
-              "Ratio of occurances", "Religious Publications & Media ","Number of occurances",
-              "Ratio of occurances",
-              "Religious Clothing, Holidays, and Rituals ","Number of occurances",
-              "Ratio of occurances", "Religious Practice and Worship","Number of occurances",
-              "Ratio of occurances", "Extremism/Terrorism","Number of occurances",
-              "Ratio of occurances",
-              "Penalties & Punishments","Number of occurances",
+categories = ["Name of file", "Date", "year", "Law number", "type of law", "Language",
+              "Title", "Status", "How many versions", "Will lose power",
+              "Date of original doc", "Number of Original Law", "Occurance in Title", "Number of Occurances in Title",
+              "Global Occurances", "Global matches", "Global non Unique Occurances", "Global Occurances Ratio",
+              "cat Ratio of occurances", "Religious Institutions (Gov’t)", "Number of occurances",
+              "cat Ratio of occurances", "Religious Leaders & Clergy", "Number of occurances",
+              "cat Ratio of occurances", "Religious Organizations (non-Gov’t)","Number of occurances",
+              "cat Ratio of occurances", "Religious Education","Number of occurances",
+              "cat Ratio of occurances", "Religious Publications & Media ","Number of occurances",
+              "cat Ratio of occurances", "Religious Clothing, Holidays, and Rituals ","Number of occurances",
+              "cat Ratio of occurances", "Religious Practice and Worship","Number of occurances",
+              "cat Ratio of occurances", "Extremism/Terrorism","Number of occurances",
+              "cat Ratio of occurances", "Penalties & Punishments","Number of occurances",
               "Ratio of occurances"]
 try:
     a = np.genfromtxt('file_path.csv', delimiter=',')
@@ -661,7 +660,7 @@ for iter, law_name in enumerate (txtfiles):
     if (previous != law_name):
         previous = law_name
         for index in range (iter - version_numbers, iter, 1):
-            a[index + 1][10] = version_numbers
+            a[index + 1][8] = version_numbers
         version_numbers = 1
     else:
         version_numbers += 1

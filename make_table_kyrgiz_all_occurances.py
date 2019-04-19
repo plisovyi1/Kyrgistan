@@ -698,7 +698,7 @@ for year_sort in range(1990, 2020, 1):
         b[0][iterator] = category
     for row in range (1, len(txtfiles), 1):
         if (a[row][11] == str(year_sort)):
-            b = np.append(b, a[row], axis = 1)
+            b = np.concatenate((b, a[row]), axis = 1)
     df = pd.DataFrame(b)
     df.to_csv(str(year_sort) + ".csv")
     writer = pd.ExcelWriter(str(year_sort) + ".xlsx")

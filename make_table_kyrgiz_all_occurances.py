@@ -609,7 +609,7 @@ txtfiles.sort(key=len, reverse=False) # sorts by descending length
 
 categories = ["Name of file", "Date", "year", "Law number", "type of law", "Language",
               "Title", "Status", "How many versions", "Will lose power",
-              "Date of original doc", "Number of Original Law", "Occurance in Title", "Number of Occurances in Title",
+              "Date of Original Doc", "Year of Original Doc", "Number of Original Law", "Occurance in Title", "Number of Occurances in Title",
               "Global Occurances", "Global matches", "Global non Unique Occurances", "Global Occurances Ratio",
               "cat Ratio of occurances", "Religious Institutions (Gov’t)", "Number of occurances",
               "cat Ratio of occurances", "Religious Leaders & Clergy", "Number of occurances",

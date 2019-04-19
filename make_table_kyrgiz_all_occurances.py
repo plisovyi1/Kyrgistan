@@ -484,10 +484,10 @@ def check(name, index):
         #return
 
 
-    a[index + 1][33] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][37] = matches
-    a[index + 1][34] = non_unique_occurances
-    a[index + 1][40] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][1] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][2] = matches
+    a[index + 1][3] = non_unique_occurances
+    a[index + 1][4] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
 
     key_terms = ["мусульманский совет", "комитет по делам религи", "комитет по религи",
@@ -561,23 +561,23 @@ def check(name, index):
     begin_title = data.find("<title>") + 7
     end_title = data.find("</title>")
     title = data[begin_title:end_title]
-    a[index + 1][3] = which_type(title)
+    a[index + 1][34] = which_type(title)
     a[index + 1][35] = which_title(title)
     a[index + 1][36] = which_date(title, data)
     try:
-        a[index + 1][1] = a[index + 1][36][0:4]
+        a[index + 1][33] = a[index + 1][36][0:4]
     except:
-        a[index + 1][1] = "N/A"
+        a[index + 1][33] = "N/A"
     a[index + 1][32] = which_language(title)
-    a[index + 1][2] = which_law_number(title, data)
+    a[index + 1][37] = which_law_number(title, data)
     a[index + 1][38] = scroop_doc(title, key_terms, excpetion_terms)
     a[index + 1][39], dummy = occurances(title, key_terms, excpetion_terms)
-    a[index + 1][4] = state_of_law(data, name)
-    if (a[index + 1][4] == "утратил силу" or a[index + 1][4] == "утратил силу в редакции закона"):
+    a[index + 1][40] = state_of_law(data, name)
+    if (a[index + 1][40] == "утратил силу" or a[index + 1][40] == "утратил силу в редакции закона"):
         a[index + 1][42] = "утратил силу"
         for prev_row in range (index + 2 - int(a[index + 1][41]), index + 1, 1):
             a[prev_row][42] = "утратит силу"
-    if (a[index + 1][4] == "оригинал"):
+    if (a[index + 1][40] == "оригинал"):
         original_date = a[index + 1][36]
         original_law = a[index + 1][37]
     a[index + 1][43] = original_date

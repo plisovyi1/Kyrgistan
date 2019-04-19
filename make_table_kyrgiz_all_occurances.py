@@ -694,7 +694,7 @@ writer.save()
 
 for year_sort in range(1990, 2020, 1):
     b = np.chararray(shape = (1, len(categories)), itemsize=1100, unicode = True)
-    for iterator, category in enumerate categories:
+    for iterator, category in enumerate (categories):
         b[0][iterator] = category
     for row in range (1, len(txtfiles), 1):
         if (a[row][11] == str(year_sort)):

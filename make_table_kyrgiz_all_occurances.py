@@ -510,7 +510,7 @@ def check(name, index):
 
     a[index + 1][10] = original_date
     try:
-        a[index + 1][11] = a[index + 10][1][0:4]
+        a[index + 1][11] = a[index + 1][10][0:4]
     except:
         a[index + 1][11] = "N/A"
     a[index + 1][12] = original_law

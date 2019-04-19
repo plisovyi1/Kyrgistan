@@ -509,85 +509,89 @@ def check(name, index):
 
 
     a[index + 1][10] = original_date
-    a[index + 1][11] = original_law
-    a[index + 1][12] = scroop_doc(title, key_terms, excpetion_terms)#in title
-    a[index + 1][13], dummy = occurances(title, key_terms, excpetion_terms)#in title
+    try:
+        a[index + 1][11] = a[index + 10][1][0:4]
+    except:
+        a[index + 1][11] = "N/A"
+    a[index + 1][12] = original_law
+    a[index + 1][13] = scroop_doc(title, key_terms, excpetion_terms)#in title
+    a[index + 1][14], dummy = occurances(title, key_terms, excpetion_terms)#in title
 
 
 
-    a[index + 1][14] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][15] = matches
-    a[index + 1][16] = non_unique_occurances
-    a[index + 1][17] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][15] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][16] = matches
+    a[index + 1][17] = non_unique_occurances
+    a[index + 1][18] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
 
     key_terms = ["мусульманский совет", "комитет по делам религи", "комитет по религи",
                  "государственная религиоведческая экспертиза", "религиоведческая", "государственная комиссия по делам религ",
                  " думк ", "духовное управление мусульман"]
-    a[index + 1][18] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][19], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][20] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][19] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][20], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][21] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
 
 
     key_terms = ["улем", "имам", "хатиб", "муфтий", "фатва", "кади", "шейх", "мулл", "отин", "гадалка",
                   "фолбин", "проповед", "хутба"]
 
-    a[index + 1][21] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][22], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][23] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][22] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][23], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][24] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["учет", "религиозные организации", "религиозная организация", "религиозные политические партии",
                   "религиозная политическая партия", "тарика", "суфи", "джамаат", "таблигa", "хизб ут-тахрир",
                   "тахрир", "исламское движение узбекистана", "исламского движения узбекистана", "ахмади",
                   "ханафи", "православ", "баптист", "свидетели иеговы"]
-    a[index + 1][24] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][25], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][26] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][25] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][26], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][27] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["мазхаб", "махтаб", "мазхаб", "медрес",
                   "мадрас", "муфти", "мулл", "исламский университет", "религиозное образование"]
-    a[index + 1][27] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][28], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][29] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][28] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][29], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][30] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["религиозного содержания", "религиозная литература", "религиозные публикации",
                   "религиозная публикация","сайты", "брошюр", "листовок", "радио",
                   "телев", "запис", "аудиокассет"]
-    a[index + 1][30] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][31], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][32] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][31] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][32], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][33] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["религиозное убрание", "религиозная одежд", "хиджаб", "бород",
                   "головной платок", "чолпон", "рамадан", "орозо-айт",
                   "орозо", "курман", "байрам", "религиозные церемонии",
                   "религиозные праздники", "свадьб", "похорон", "обрезание",
                   "суннат"]
-    a[index + 1][33] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][34], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][35] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][34] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][35], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][36] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["паломничеств", "хадж", "святын", "зийарат",
                   "зиярат", "посещение мечети", "мазар", "проповед",
                   "хутбе", "хутба", "джума́-нама́з", "джума",
                   "молитва", "пост", "халяль", "зикр",
                   "даават", "дават"]
-    a[index + 1][36] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][37], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][38] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][37] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][38], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][39] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
     key_terms = ["экстрем", "террор", "религиозное насилие", "религиозная ненависть",
                   "религиозное превосходство", "шариа", "джихад"]
-    a[index + 1][39] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][40], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][41] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][40] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][41], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][42] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
 
     key_terms = ["предупреждение", "штраф", "тюремный срок", "тюремного срока",
                   "запрет", "ликвидац", "задерж", "арест"]
-    a[index + 1][42] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][43], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
-    a[index + 1][44] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][43] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][44], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][45] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
 
 
 current_law_name = ""
@@ -616,7 +620,7 @@ categories = ["Name of file", "Date", "year", "Law number", "type of law", "Lang
               "cat Ratio of occurances", "Religious Practice and Worship","Number of occurances",
               "cat Ratio of occurances", "Extremism/Terrorism","Number of occurances",
               "cat Ratio of occurances", "Penalties & Punishments","Number of occurances",
-              "Ratio of occurances"]
+              "Links"]
 try:
     a = np.genfromtxt('file_path.csv', delimiter=',')
     print("found in dir")
@@ -637,7 +641,7 @@ for i in range (0,len(txtfiles)):
     print(document_link)
 
     print(document_link)
-    a[i + 1][45] = document_link
+    a[i + 1][46] = document_link
     document_number = document_number.replace('/', '_',)
     document_number = document_number[1:len(document_number)]
     document_number = document_number + ".txt"
@@ -689,12 +693,12 @@ df.to_excel(writer)
 writer.save()
 
 for year_sort in range(1990, 2020, 1):
-    row_incrementer = 0
-    b = np.chararray(shape = (len(txtfiles) + 1, len(categories)), itemsize=1100, unicode = True)
+    b = np.chararray(shape = 1, len(categories)), itemsize=1100, unicode = True)
+    for iterator, category in enumerate categories:
+        b[0][iterator] = category
     for row in range (1, len(txtfiles), 1):
-        if (a[row][2] == str(year_sort)):
-            b[row_incrementer] = a[row].copy()
-            row_incrementer += 1
+        if (a[row][11] == str(year_sort)):
+            b = np.append(b, a[row], axis = 1)
     df = pd.DataFrame(b)
     df.to_csv(str(year_sort) + ".csv")
     writer = pd.ExcelWriter(str(year_sort) + ".xlsx")

@@ -1,0 +1,1108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--SessionId: 7e1fc49e-ba80-44f1-986d-b4297c8710eb -->
+<head>
+    <title>Закон КР от 5 июля 2002 года № 113 &quot;О судах аксакалов&quot;</title>
+    <link rel="shortcut icon" href="/favicon.gif" type="image/gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="ru-ru"/>
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+    
+     
+    
+    <style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+h1
+	{mso-style-link:"Заголовок 1 Знак";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";}
+h2
+	{mso-style-link:"Заголовок 2 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+h3
+	{mso-style-link:"Заголовок 3 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+h4
+	{mso-style-link:"Заголовок 4 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+h5
+	{mso-style-link:"Заголовок 5 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:#243F60;
+	font-weight:normal;}
+h6
+	{mso-style-link:"Заголовок 6 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:#243F60;
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{mso-style-link:"Заголовок 7 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:#404040;
+	font-style:italic;}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{mso-style-link:"Заголовок 8 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{mso-style-link:"Заголовок 9 Знак";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	page-break-after:avoid;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	color:#404040;
+	font-style:italic;}
+p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:35.4pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-link:"Текст примечания Знак";
+	margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:9.0pt;
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;
+	font-weight:bold;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Название Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:24.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	letter-spacing:.25pt;
+	font-weight:bold;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-link:"Название Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	letter-spacing:.25pt;
+	font-weight:bold;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-link:"Название Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	letter-spacing:.25pt;
+	font-weight:bold;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-link:"Название Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:24.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	letter-spacing:.25pt;
+	font-weight:bold;}
+p.MsoSignature, li.MsoSignature, div.MsoSignature
+	{mso-style-link:"Подпись Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-indent:35.45pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.MsoMessageHeader, li.MsoMessageHeader, div.MsoMessageHeader
+	{mso-style-link:"Шапка Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:24.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:16.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"Подзаголовок Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:22.7pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;
+	letter-spacing:.75pt;
+	font-style:italic;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+pre
+	{mso-style-link:"Стандартный HTML Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Текст выноски Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:36.0pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoQuote, li.MsoQuote, div.MsoQuote
+	{mso-style-link:"Цитата 2 Знак";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:19.85pt;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-style:italic;}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"Выделенная цитата Знак";
+	margin-top:10.0pt;
+	margin-right:46.8pt;
+	margin-bottom:14.0pt;
+	margin-left:46.8pt;
+	text-align:justify;
+	text-indent:19.85pt;
+	border:none;
+	padding:0cm;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleEmphasis
+	{color:gray;
+	font-style:italic;}
+span.MsoIntenseEmphasis
+	{color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:#C0504D;
+	text-decoration:underline;}
+span.MsoIntenseReference
+	{font-variant:small-caps;
+	color:#C0504D;
+	letter-spacing:.25pt;
+	font-weight:bold;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-variant:small-caps;
+	letter-spacing:.25pt;
+	font-weight:bold;}
+p.MsoTocHeading, li.MsoTocHeading, div.MsoTocHeading
+	{margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.a
+	{mso-style-name:"Текст выноски Знак";
+	mso-style-link:"Текст выноски";
+	font-family:"Tahoma","sans-serif";}
+span.a0
+	{mso-style-name:"Название Знак";
+	mso-style-link:Название;
+	font-family:"Arial","sans-serif";
+	letter-spacing:.25pt;
+	font-weight:bold;}
+span.a1
+	{mso-style-name:"Шапка Знак";
+	mso-style-link:Шапка;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.a2
+	{mso-style-name:"Текст примечания Знак";
+	mso-style-link:"Текст примечания";
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+span.a3
+	{mso-style-name:"Подпись Знак";
+	mso-style-link:Подпись;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.a4, li.a4, div.a4
+	{mso-style-name:Реквизит;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+p.a5, li.a5, div.a5
+	{mso-style-name:Редакции;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:24.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+span.1
+	{mso-style-name:"Заголовок 1 Знак";
+	mso-style-link:"Заголовок 1";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.2
+	{mso-style-name:"Заголовок 2 Знак";
+	mso-style-link:"Заголовок 2";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.3
+	{mso-style-name:"Заголовок 3 Знак";
+	mso-style-link:"Заголовок 3";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+span.4
+	{mso-style-name:"Заголовок 4 Знак";
+	mso-style-link:"Заголовок 4";
+	font-family:"Arial","sans-serif";
+	font-weight:bold;
+	font-style:italic;}
+span.5
+	{mso-style-name:"Заголовок 5 Знак";
+	mso-style-link:"Заголовок 5";
+	font-family:"Arial","sans-serif";
+	color:#243F60;}
+span.6
+	{mso-style-name:"Заголовок 6 Знак";
+	mso-style-link:"Заголовок 6";
+	font-family:"Arial","sans-serif";
+	color:#243F60;
+	font-style:italic;}
+span.7
+	{mso-style-name:"Заголовок 7 Знак";
+	mso-style-link:"Заголовок 7";
+	font-family:"Arial","sans-serif";
+	color:#404040;
+	font-style:italic;}
+span.8
+	{mso-style-name:"Заголовок 8 Знак";
+	mso-style-link:"Заголовок 8";
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;}
+span.9
+	{mso-style-name:"Заголовок 9 Знак";
+	mso-style-link:"Заголовок 9";
+	font-family:"Arial","sans-serif";
+	color:#404040;
+	font-style:italic;}
+span.a6
+	{mso-style-name:"Подзаголовок Знак";
+	mso-style-link:Подзаголовок;
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;
+	letter-spacing:.75pt;
+	font-style:italic;}
+span.HTML
+	{mso-style-name:"Стандартный HTML Знак";
+	mso-style-link:"Стандартный HTML";
+	font-family:"Courier New";}
+span.20
+	{mso-style-name:"Цитата 2 Знак";
+	mso-style-link:"Цитата 2";
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-style:italic;}
+span.a7
+	{mso-style-name:"Выделенная цитата Знак";
+	mso-style-link:"Выделенная цитата";
+	font-family:"Arial","sans-serif";
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+.MsoChpDefault
+	{font-family:"Arial","sans-serif";}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+    
+        <style type="text/css">
+            a:link
+            {
+                color: Black;
+                text-decoration: none;
+            }
+            a:visited
+            {
+                color: Black;
+                text-decoration: none;
+            }
+        </style>
+    
+
+</head>
+<body>
+    
+
+    <script src="../../../../Scripts/orphus.js" type="text/javascript"></script>
+	<a href="//orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="../../../../Scripts/orphus.gif" border="0" width="120" height="115" /></a>
+
+
+  
+
+
+
+
+
+
+
+<div class="WordSection1">
+<p class="MsoMessageHeader"><img id="Рисунок 3" src="/act/img/ru-ru/1070?property=tekst&src=image001.jpg&cl=ru-ru" width="121" height="121"></p>
+<p class="MsoMessageHeader">ЗАКОН КЫРГЫЗСКОЙ РЕСПУБЛИКИ</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="a4">от 5 июля 2002 года № 113</p>
+<p class="MsoTitle">О судах аксакалов</p>
+<p class="a5">(В редакции Законов КР <br>от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 
+158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 года № 181</a>)</p>
+<p class="MsoNormal">Раздел I. Общие положения</p>
+<p class="MsoNormal">Раздел II. Порядок учреждения судов аксакалов</p>
+<p class="MsoNormal">Раздел III. Порядок рассмотрения дел (материалов) судами 
+аксакалов</p>
+<p class="MsoNormal">Раздел IV. Решение суда аксакалов</p>
+<p class="MsoNormal">Раздел V. Меры воздействия, применяемые судами аксакалов</p>
+<p class="MsoNormal">Раздел VI. Порядок обжалования и исполнения решений судов 
+аксакалов</p>
+<p class="MsoNormal">Раздел VII. Взаимоотношения судов аксакалов с другими 
+органами</p>
+<p class="MsoNormal">Раздел VIII. Заключительные положения</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Настоящий Закон определяет правовые основы, принципы 
+организации и деятельности судов аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел I<br>Общие положения</h2>
+<h2>&nbsp;</h2>
+<p class="MsoNormal">Статья 1. Суды аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов - это создаваемые на добровольных началах и на 
+основе выборности и самоуправления общественные органы, призванные осуществлять 
+рассмотрение материалов, направляемых им в установленном порядке судом, 
+прокурором, органами внутренних дел и другими государственными органами и их 
+должностными лицами в соответствии с действующим законодательством Кыргызской 
+Республики, а также дела о спорах между гражданами в случаях и порядке, 
+установленных настоящим Законом.</p>
+<p class="MsoNormal">Суды аксакалов могут учреждаться по решению собрания граждан, 
+местных кенешей или иного представительного органа местного самоуправления на 
+территории аилов, поселков, городов из аксакалов, мужчин и женщин, пользующихся 
+уважением и авторитетом.</p>
+<p class="MsoNormal">Суды аксакалов не являются юридическими лицами и не подлежат 
+регистрации в органах юстиции. Суды аксакалов имеют печать и штампы со своим 
+наименованием.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 
+года № 181</a>)</p>
+<p class="MsoNormal">Статья 2. Правовая основа деятельности судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Правовую основу деятельности судов аксакалов составляют 
+Конституция Кыргызской Республики, настоящий Закон и другие нормативные правовые 
+акты Кыргызской Республики.</p>
+<p class="MsoNormal">Суды аксакалов в своей деятельности руководствуются также 
+своей совестью, личными убеждениями, нормами морали и нравственности, 
+исторически сложившимися из обычаев и традиций народов Кыргызстана, не 
+противоречащими законодательству Кыргызской Республики.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 3. Основные задачи судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Основными задачами судов аксакалов являются:</p>
+<p class="MsoNormal">- защита нарушенных или оспариваемых прав и законных 
+интересов граждан;</p>
+<p class="MsoNormal">- содействие укреплению законности и правопорядка и 
+предупреждение правонарушений на территории аилов, поселков и городов;</p>
+<p class="MsoNormal">- воспитание у граждан уважения к закону, нормам морали и 
+нравственности, исторически сложившимся из обычаев и традиций.</p>
+<p class="MsoNormal">Суды аксакалов действуют путем убеждения, общественного 
+воздействия, достижения примирения сторон и вынесения справедливого, не 
+противоречащего законам и другим нормативным актам республики решения.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 4. Функции судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов рассматривают и разрешают:</p>
+<p class="MsoNormal">- направляемые местными судами материалы по гражданским делам 
+в порядке, предусмотренном гражданско-процессуальным законодательством;</p>
+<p class="MsoNormal">- направляемые судами, прокурорами, органами следствия и 
+дознания с санкции прокурора материалы, по которым были прекращены уголовные 
+дела, для применения мер общественного воздействия в соответствии с 
+уголовно-процессуальным законодательством.</p>
+<p class="MsoNormal">Судами аксакалов также могут быть рассмотрены дела по 
+заявлению самих граждан (с согласия сторон) для разрешения имущественных и 
+семейных споров с целью достижения примирения сторон и иные предусмотренные 
+настоящим Законом дела.</p>
+<p class="MsoNormal">Суды аксакалов не вправе рассматривать материалы, по которым 
+уже были вынесены судебные решения, наложены административные взыскания или 
+состоялось решение суда аксакалов, принятое в пределах его компетенции.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 5. Язык, на котором ведется судопроизводство</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Судопроизводство судов аксакалов ведется на государственном 
+или официальном языке, либо на языке большинства населения данной местности.</p>
+<p class="MsoNormal">Суд аксакалов может потребовать от сторон перевода любых 
+письменных доказательств на язык, который должен применяться при рассмотрении 
+дела.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 6. Гласность производства судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Разбирательство в судах аксакалов открытое.</p>
+<p class="MsoNormal">Закрытое заседание допускается по мотивированному решению 
+суда, ходатайству одной из сторон по делам лиц, не достигших шестнадцати лет, 
+семейным спорам, в целях предотвращения разглашения сведений об интимных 
+сторонах жизни участвующих в деле.</p>
+<p class="MsoNormal">Суд аксакалов на своих заседаниях обязан заслушать объяснения 
+участников заседания и огласить документы, имеющиеся у судей и участников 
+заседания.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 7. Коллегиальность рассмотрения дел</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">В судах аксакалов дела рассматриваются коллегиально - в 
+составе председательствующего и членов суда.</p>
+<p class="MsoNormal">Суд аксакалов правомочен рассматривать дела при наличии двух 
+третей состава, число которого должно быть нечетным.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел II<br>Порядок учреждения судов аксакалов</h2>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 8. Число членов судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов избираются в составе не менее 5 и не более 9 
+человек, при этом их число должно быть обязательно нечетным.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 9. Требования, предъявляемые к членам судов 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">В состав судов аксакалов могут быть избраны совершеннолетние 
+граждане Кыргызской Республики, как мужчины, так и женщины, пользующиеся 
+уважением и авторитетом среди населения аилов, поселков и городов, по деловым и 
+моральным качествам способные выполнять задачи, поставленные перед судами 
+аксакалов.</p>
+<p class="MsoNormal">Кандидаты в члены суда аксакалов выдвигаются гражданами 
+(жителями) и органами местного самоуправления в порядке, установленном настоящим 
+Законом.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 
+года № 181</a>)</p>
+<p class="MsoNormal">Статья 10. Принципы создания судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов, как правило, создаются в аилах и поселках по 
+принципу: один населенный пункт - один суд аксакалов либо один айыл окмоту - 
+один суд аксакалов.</p>
+<p class="MsoNormal">В городах суды аксакалов создаются по принципу:</p>
+<p class="MsoNormal">- если количество жителей не превышает 25 тысяч - один суд 
+аксакалов;</p>
+<p class="MsoNormal">- если количество жителей составляет от 25 тысяч до 50 тысяч 
+- два суда аксакалов и так далее.</p>
+<p class="MsoNormal">В городах, где имеются микрорайоны, суды аксакалов создаются 
+независимо от количества жителей по принципу: один микрорайон - один суд 
+аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 11. Порядок избрания судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Члены судов аксакалов избираются сроком на три года открытым 
+голосованием на общих собраниях граждан по месту жительства, а также на 
+конференциях Советов общественности, сессиях аильных, поселковых, районных 
+(городских) кенешей. Председатели судов аксакалов избираются членами судов 
+аксакалов из их числа.</p>
+<p class="MsoNormal">Собрания по выборам судов аксакалов созываются 
+соответствующими местными айыл окмоту, районными (городскими) кенешами, либо по 
+инициативе граждан в количестве не менее 50 человек. Оповещение о дне выборов 
+производится соответствующими районными (городскими) кенешами за один месяц.</p>
+<p class="MsoNormal">Избранными в состав суда считаются граждане, получившие 
+большинство голосов присутствующих на собрании. Собрание считается правомочным, 
+если на нем присутствует не менее 50 дееспособных граждан - жителей данного 
+населенного пункта.</p>
+<p class="MsoNormal">Члены судов аксакалов избирают из своего состава председателя 
+и секретаря.</p>
+<p class="MsoNormal">От имени лиц, проживающих по одному почтовому адресу и 
+относящихся к одной семье, может выступать их представитель (глава семьи или 
+иной член семьи).</p>
+<p class="MsoNormal">Порядок принятия решений Советами общественности, сессиями 
+аильных, поселковых, районных (городских) кенешей регулируется их уставами и 
+регламентами.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 12. Регистрация судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов, учрежденные в соответствии с требованиями 
+положений настоящего Закона, регистрируются районными (городскими) кенешами.</p>
+<p class="MsoNormal">Для учетной регистрации судов аксакалов в районные 
+(городские) кенеши представляются протокол собрания жителей данного населенного 
+пункта либо протокол конференции соответствующего Совета общественности, 
+подтверждающий учреждение суда аксакалов и избрание его членов, справка 
+государственного органа о наличии количественного состава проживающих на данной 
+территории, заявление об учетной регистрации суда аксакалов, подписанное 
+избранными членами суда аксакалов, копии паспортов членов суда аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">См. постановление Бишкекского горкенеша депутатов от 19 
+декабря 2003 года № 203 "Об утверждении Положения о порядке проведения учетной 
+регистрации судов аксакалов города Бишкек"</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">При избрании членов судов аксакалов на конференциях 
+соответствующих Советов общественности справка государственного органа о наличии 
+количественного состава проживающих на данной территории не требуется.</p>
+<p class="MsoNormal">По требованию районных (городских) кенешей представляются и 
+иные документы, связанные с учреждением суда аксакалов.</p>
+<p class="MsoNormal">Членам судов аксакалов соответствующими районными 
+(городскими) кенешами выдаются удостоверения единого образца, устанавливаемого 
+Верховным судом Кыргызской Республики.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">См. постановление Правительства КР от 3 апреля 2003 года № 
+182 "Об обеспечении удостоверениями членов судов аксакалов Кыргызской 
+Республики"</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 13. Отвод члена суда аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Член суда аксакалов не может участвовать в рассмотрении 
+материалов (дел), если он является близким родственником спорящих сторон, а 
+также при наличии иных обстоятельств, дающих основание считать, что член суда 
+заинтересован в исходе дела.</p>
+<p class="MsoNormal">Отвод члена суда аксакалов может быть произведен:</p>
+<p class="MsoNormal">- по заявлению лиц, участвующих в деле;</p>
+<p class="MsoNormal">- по заявлениям других членов суда аксакалов.</p>
+<p class="MsoNormal">Член суда аксакалов подлежит отводу по собственному заявлению 
+о самоотводе по основаниям, указанным в части первой настоящей статьи.</p>
+<p class="MsoNormal">Суд аксакалов рассматривает заявление об отводе или 
+самоотводе члена суда аксакалов, по итогам которого принимает решение по 
+существу.</p>
+<p class="MsoNormal">Отвод члена суда аксакалов производится по решению самого 
+суда аксакалов, принятому большинством голосов его членов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 14. Исключение члена суда аксакалов из его состава</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Член суда аксакалов может быть исключен из его состава по 
+следующим основаниям:</p>
+<p class="MsoNormal">- отказ от членства суда аксакалов;</p>
+<p class="MsoNormal">- смерть члена суда аксакалов;</p>
+<p class="MsoNormal">- окончание срока полномочий;</p>
+<p class="MsoNormal">- изменение местожительства (переезд с данного населенного 
+пункта);</p>
+<p class="MsoNormal">- привлечение к уголовной ответственности и осуждение;</p>
+<p class="MsoNormal">- отзыв члена суда аксакалов.</p>
+<p class="MsoNormal">Член суда аксакалов может быть отозван досрочно общим 
+собранием граждан, конференцией соответствующего Совета общественности либо 
+сессией аильного, поселкового, районного (городского) кенешей, избравших 
+его:</p>
+<p class="MsoNormal">- если не справляется с возложенными на него 
+обязанностями;</p>
+<p class="MsoNormal">- в связи с недостойным поведением;</p>
+<p class="MsoNormal">- если совершил правонарушение и другие проступки, 
+несовместимые со званием члена суда аксакалов.</p>
+<p class="MsoNormal">Избрание нового члена суда аксакалов взамен исключенного 
+производится в порядке, предусмотренном статьей 11 настоящего Закона.</p>
+<p class="MsoNormal">Член суда аксакалов, исключенный из состава суда в связи с 
+окончанием срока полномочий, может быть избран повторно.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел III<br>Порядок рассмотрения дел (материалов) судами аксакалов</h2>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 15. Дела (материалы), рассматриваемые судами 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов вправе рассматривать дела (материалы):</p>
+<p class="MsoNormal">а) об имущественных и семейных спорах граждан:</p>
+<p class="MsoNormal">- по взысканию имущественного долга;</p>
+<p class="MsoNormal">- по истребованию имущества из чужого незаконного 
+владения;</p>
+<p class="MsoNormal">- по возврату имущества из чужого незаконного владения;</p>
+<p class="MsoNormal">- по возврату имущества, переданного на хранение;</p>
+<p class="MsoNormal">- по взысканию арендной платы;</p>
+<p class="MsoNormal">- по возмещению за причиненный имуществу вред;</p>
+<p class="MsoNormal">- по разделу общего совместного имущества супругов;</p>
+<p class="MsoNormal">- по национальным брачным отношениям и традициям, связанным с 
+брачно-семейными отношениями;</p>
+<p class="MsoNormal">б) о невыполнении родителями и другими членами семьи 
+обязанностей по воспитанию и содержанию детей;</p>
+<p class="MsoNormal">в) о невыполнении совершеннолетними детьми обязанностей по 
+содержанию нетрудоспособных родителей или лиц, воспитавших и содержавших их в 
+установленном порядке;</p>
+<p class="MsoNormal">г) об оплате выполненной работы по трудовому соглашению;</p>
+<p class="MsoNormal">д) споры по поливу между пользователями земельных 
+участков.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 16. Сроки рассмотрения дел (материалов) в судах 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суд аксакалов рассматривает дела (материалы) в 15-дневный 
+срок с момента их поступления. В случаях необходимости срок рассмотрения дел 
+(материалов) может быть продлен на срок истребования материалов либо 
+представления участниками суда дополнительных сведений, но не более чем на 15 
+дней.</p>
+<p class="MsoNormal">Если иное решение судами аксакалов не будет принято, в случае 
+отсутствия кворума в течение месяца дела (материалы), переданные судам аксакалов 
+соответствующими государственными органами или их должностными лицами, а также 
+поступившие от граждан заявления могут быть ими отозваны.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 17. Время и место рассмотрения дел (материалов) судами 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Время рассмотрения судами аксакалов дел (материалов) 
+определяется председателем суда. Приглашение на заседание лиц, присутствие 
+которых на суде аксакалов необходимо, производится председателем суда через 
+участкового инспектора милиции. Извещение этих лиц производится заблаговременно, 
+но не менее чем за три дня.</p>
+<p class="MsoNormal">Суды аксакалов рассматривают дела (материалы) в помещениях, 
+выделяемых местными айыл окмоту, районными (городскими) кенешами, если иное 
+место рассмотрения не определят суды аксакалов.</p>
+<p class="MsoNormal">Суд аксакалов рассматривает дела (материалы):</p>
+<p class="MsoNormal">- если правонарушения были совершены на его территории;</p>
+<p class="MsoNormal">- по просьбе заявителей независимо от места их проживания, 
+если ответчик проживает на его территории;</p>
+<p class="MsoNormal">- по просьбе других судов аксакалов, если правонарушитель, 
+потерпевший либо ответчик проживает на его территории.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 18. Основания для рассмотрения дел (материалов) судами 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Основаниями для рассмотрения судами аксакалов дел 
+(материалов) являются:</p>
+<p class="MsoNormal">а) представление соответствующих айыл окмоту, районных 
+(городских) кенешей;</p>
+<p class="MsoNormal">б) материалы, переданные государственными органами или их 
+должностными лицами, которым представлено право налагать административные 
+взыскания;</p>
+<p class="MsoNormal">в) материалы, переданные в установленном порядке органами 
+дознания и следствия, а также судом;</p>
+<p class="MsoNormal">г) заявления граждан;</p>
+<p class="MsoNormal">д) заявления других судов аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 19. Действия суда аксакалов по подготовке дел 
+(материалов) к рассмотрению</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суд аксакалов производит проверку поступивших заявлений и 
+других материалов, связанных с рассмотрением дел (материалов). Проверка может 
+производиться как председателем суда, так и по его поручению членом суда.</p>
+<p class="MsoNormal">При необходимости производится опрос или отбираются 
+объяснения от лица, привлекаемого к суду аксакалов, потерпевшего, 
+свидетелей.</p>
+<p class="MsoNormal">Лицо, производящее проверку, по ее результатам составляет 
+заключение, в котором указываются фактические обстоятельства дела, причины 
+совершенного проступка, данные о личности привлекаемого к суду аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 20. Ознакомление участников спора с имеющимися 
+материалами</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суд аксакалов обязан ознакомить лицо, привлекаемое к суду 
+аксакалов, а также потерпевшего и других участников спора, с имеющимися 
+материалами.</p>
+<p class="MsoNormal">Последние имеют право ходатайствовать перед судом об 
+истребовании дополнительных материалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 21. Открытие заседания суда</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">В назначенное для рассмотрения дел (материалов) время 
+председатель либо по его поручению один из членов суда аксакалов открывает 
+заседание суда аксакалов и объявляет какие дела (материалы) подлежат 
+рассмотрению.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 22. Проверка явки лиц, участвующих в процессе, и 
+разъяснение их прав</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Председательствующий после открытия заседания удостоверяется 
+в явке вызванных в суд лиц, разъясняет привлеченному к суду, потерпевшему и иным 
+участникам процесса их права, после чего выясняет имеются ли у них отводы 
+составу суда и ходатайства, а по имущественным и семейным спорам - согласие 
+сторон на рассмотрение их дела судом аксакалов.</p>
+<p class="MsoNormal">Лица, участвующие в процессе, вправе принимать участие в 
+исследовании доказательств и заявлять ходатайства, в том числе об истребовании 
+дополнительных материалов.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 23. Рассмотрение дела по существу</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">После решения вопроса об отводах и ходатайствах 
+председательствующий излагает существо проступка или правонарушения, 
+совершенного лицом, привлеченным к суду, а также результаты произведенной 
+проверки, а по заявлениям граждан - предмет и существо спора.</p>
+<p class="MsoNormal">Затем суд заслушивает объяснения привлеченного к суду, 
+потерпевшего, ответчика, свидетелей и иных участников процесса и рассматривает 
+все необходимые по делу материалы.</p>
+<p class="MsoNormal">При отсутствии дополнений со стороны участников процесса 
+председательствующий объявляет рассмотрение дела оконченным и суд удаляется в 
+отдельное помещение для вынесения решения.</p>
+<p class="MsoNormal">В случае необходимости в получении каких-либо дополнительных 
+данных или сведений суд, не вынося решения по существу проступка или 
+правонарушения, заявления граждан вправе отложить заседание или перенести его на 
+другой срок.</p>
+<p class="MsoNormal">Разбирательство дел в судах аксакалов производится 
+бесплатно.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 24. Протокол судебного заседания суда аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">При рассмотрении дела член суда аксакалов ведет протокол.</p>
+<p class="MsoNormal">Протокол суда аксакалов должен содержать данные о составе 
+суда, характере дела, времени и месте его рассмотрения, сведения о лицах, 
+участвовавших на заседании суда аксакалов при рассмотрении дела, их заявления и 
+краткие выступления (объяснения, ходатайства) и принятое решение.</p>
+<p class="MsoNormal">Протокол заседания суда аксакалов подписывается 
+председательствующим и секретарем.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>) </p>
+<h2>Раздел IV<br>Решение суда аксакалов</h2>
+<h2>&nbsp;</h2>
+<p class="MsoNormal">Статья 25. Вынесение решения</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Постановление суда аксакалов, которым дело разрешается по 
+существу, выносится в форме решения.</p>
+<p class="MsoNormal">Решение суда аксакалов принимается большинством голосов, всех 
+членов суда, участвующих в рассмотрении дела. Член суда, не согласный с 
+решением, излагает свое особое мнение, которое прилагается к решению.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 26. Обоснованность решения</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суд основывает решение лишь на тех доказательствах, которые 
+были исследованы в судебном заседании.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 27. Форма и содержание решения суда</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Решение суда аксакалов излагается в письменной форме, в 
+котором должны указываться:</p>
+<p class="MsoNormal">- время и место вынесения решения, наименование суда, 
+вынесшего решение, состав суда и лиц, участвующих в деле;</p>
+<p class="MsoNormal">- предмет спора или содержание правонарушения;</p>
+<p class="MsoNormal">- обстоятельства дела, установленные судом, доказательства, 
+на которых основаны выводы суда об обстоятельствах дела, доводы, по которым суд 
+отвергает те или иные доказательства;</p>
+<p class="MsoNormal">- законы, которыми руководствовался суд при вынесении 
+решения;</p>
+<p class="MsoNormal">- заключение, принятое судом аксакалов по рассмотренному 
+материалу;</p>
+<p class="MsoNormal">- срок и порядок обжалования принятого решения;</p>
+<p class="MsoNormal">- срок исполнения решения.</p>
+<p class="MsoNormal">Решение подписывается председательствующим и членами суда до 
+объявления его на заседании суда аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел V<br>Меры воздействия, применяемые судами аксакалов</h2>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 28. Меры воздействия</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суд аксакалов, установив виновность привлеченного к суду, 
+может вынести решение о применении одной из следующих мер воздействия:</p>
+<p class="MsoNormal">а) вынести предупреждение;</p>
+<p class="MsoNormal">б) обязать принести публичное извинение потерпевшей 
+стороне;</p>
+<p class="MsoNormal">в) объявить общественное порицание;</p>
+<p class="MsoNormal">г) обязать виновную сторону возместить причиненный 
+материальный ущерб;</p>
+<p class="MsoNormal">д) наложить денежный штраф в размере до трех минимальных 
+заработных плат, установленных законодательством Кыргызской Республики.</p>
+<p class="MsoNormal">По семейным спорам суд принимает решение по существу 
+рассматриваемого спора.</p>
+<p class="MsoNormal">Если суд аксакалов не достиг примирения сторон по 
+имущественным и семейным спорам, он принимает решение по существу 
+рассматриваемого вопроса.</p>
+<p class="MsoNormal">О мерах общественного воздействия, примененных к лицам, 
+совершившим административное правонарушение, суд аксакалов обязан сообщить в 
+10-дневный срок органу (должностному лицу), направившему материал.</p>
+<p class="MsoNormal">Суд не вправе выносить решение о наказаниях, унижающих 
+человеческое достоинство.</p>
+<p class="MsoNormal">Указанный перечень мер общественного воздействия является 
+исчерпывающим и расширительному толкованию не подлежит.</p>
+<p class="MsoNormal">В случае наложения мер воздействия, не предусмотренных 
+настоящим Законом, такое наказание является незаконным и исполнению не 
+подлежит.</p>
+<p style="TEXT-ALIGN: left" class="a5" align="left">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</p>
+<p class="MsoNormal">Статья 29. Распределение денежных штрафов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Денежные штрафы, налагаемые судом аксакалов, созданным при 
+аильном или поселковом кенеше, вносятся в бюджет местных кенешей первичного 
+уровня.</p>
+<p class="MsoNormal">Денежные штрафы, налагаемые судом аксакалов, созданным в 
+городах при Советах общественности территориального самоуправления, 
+распределяются следующим образом:</p>
+<p class="MsoNormal">30 процентов - в бюджет местного кенеша первичного уровня, на 
+территории которого находится суд аксакалов;</p>
+<p class="MsoNormal">70 процентов - на счет Совета общественности территориального 
+самоуправления, при котором создан суд аксакалов.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел VI<br>Порядок обжалования и исполнения решений судов аксакалов</h2>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 30. Порядок обжалования решений суда аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Решение суда аксакалов может быть обжаловано лицом, в 
+отношении которого вынесено решение, и иными лицами, участвующими в деле в 
+течение 10 дней со дня вынесения решения.</p>
+<p class="MsoNormal">Жалоба подается в районный или городской суд, на территории 
+которого образован суд аксакалов.</p>
+<p class="MsoNormal">Жалоба рассматривается единолично судьей районного или 
+городского суда в течение 10 дней со дня ее поступления. При этом судья 
+проверяет соответствие решения суда аксакалов действующему законодательству 
+Кыргызской Республики, настоящему Закону, а также обстоятельствам дела.</p>
+<p class="MsoNormal">Если судья районного или городского суда найдет жалобу 
+обоснованной, то он мотивированно отменяет решение суда аксакалов и возвращает 
+материалы для повторного рассмотрения либо прекращает производство.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 31. Порядок исполнения решений суда аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Решение суда аксакалов о возмещении причиненного ущерба или 
+об имущественном взыскании должно исполняться привлекавшимся к суду лицом в 
+срок, указанный в решении суда.</p>
+<p class="MsoNormal">Суд аксакалов осуществляет контроль за исполнением своих 
+решений.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 32. Принудительное исполнение решения суда 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">В случае неисполнения сторонами решения в установленные сроки 
+исполнительный лист на принудительное исполнение выдается районным или городским 
+судом, на территории которого находится суд аксакалов.</p>
+<p class="MsoNormal">Заявление о выдаче исполнительного листа на принудительное 
+исполнение решения суда аксакалов подается в районный или городской суд по 
+территориальности стороной, в пользу которой вынесено решение.</p>
+<p class="MsoNormal">Заявление может быть подано в течение месяца со дня окончания 
+срока исполнения решения.</p>
+<p class="MsoNormal">К заявлению прилагаются документы, подтверждающие 
+неисполнение решения суда аксакалов.</p>
+<p class="MsoNormal">Заявления, поданные с нарушением установленного срока либо 
+без приложения необходимых документов, возвращаются районным или городским судом 
+без рассмотрения.</p>
+<p class="MsoNormal">При наличии уважительных причин пропуска срока на подачу 
+заявления о выдаче исполнительного листа сроки могут быть восстановлены по 
+ходатайству стороны районным или городским судом.</p>
+<p class="MsoNormal">Заявление рассматривается единолично судьей в месячный срок 
+со дня его получения районным или городским судом. При этом судья проверяет 
+соответствие решения суда аксакалов действующему законодательству Кыргызской 
+Республики.</p>
+<p class="MsoNormal">По результатам рассмотрения заявления выносится определение о 
+выдаче исполнительного листа либо об отказе в выдаче такового.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел VII<br>Взаимоотношения судов аксакалов с другими органами</h2>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 33. Материально-техническое обеспечение судов 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Материально-техническое обеспечение деятельности судов 
+аксакалов и поощрение членов судов аксакалов осуществляются за счет средств 
+соответствующих айыл окмоту, районного (городского) кенеша, а также средств, 
+поступающих от различных юридических лиц и граждан.</p>
+<p class="MsoNormal">Порядок использования средств судами аксакалов 
+устанавливается регламентом, принимаемым айыл окмоту, районным (городским) 
+кенешем, согласованным с соответствующими областными кенешами.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">См. постановление Бишкекского горкенеша депутатов от 19 
+декабря 2003 года № 202 "Об утверждении Регламента работы судов аксакалов города 
+Бишкек"</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 34. Оказание методической и иной помощи судам 
+аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Методическую помощь по применению законодательства судам 
+аксакалов оказывают районные (городские) суды, на территории которых они 
+образованы.</p>
+<p class="MsoNormal">На заседании судов аксакалов правопорядок, а также в 
+необходимых случаях принудительное приведение на заседания судов аксакалов 
+правонарушителей, ответчиков обеспечивают органы внутренних дел.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 35. Отчетность судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов ведут статистический учет рассмотренных дел 
+(материалов).</p>
+<p class="MsoNormal">Суды аксакалов не реже одного раза в год отчитываются о своей 
+деятельности перед общими собраниями граждан, конференциями Советов 
+общественности, сессиями аильных, поселковых, районных (городских) кенешей, 
+учредивших их.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Статья 36. Хранение производства судов аксакалов</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Производство судов аксакалов после окончания рассмотрения 
+материалов передается для хранения в соответствующие айыл окмоту, районные 
+(городские) кенеши.</p>
+<p class="MsoNormal">&nbsp;</p>
+<h2>Раздел VIII<br>Заключительные положения</h2>
+<h2>&nbsp;</h2>
+<p class="MsoNormal">Статья 37. Вступление в силу настоящего Закона</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Настоящий Закон вступает в силу со дня опубликования.</p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal">Суды аксакалов, образованные до принятия настоящего Закона, 
+сохраняют статус действующих.</p>
+<p class="MsoNormal">Суды аксакалов, образованные и действующие, но не прошедшие 
+учетную регистрацию в районных (городских) кенешах, подлежат в месячный срок 
+регистрации в соответствии с требованиями статьи 12 настоящего Закона.</p>
+<p class="MsoNormal">&nbsp;</p>
+<table style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none" class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="100%">
+  <tbody>
+  <tr>
+    <td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 50%; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0cm" valign="top" width="50%">
+      <p class="MsoSignature">Президент</p>
+      <p style="TEXT-INDENT: 0cm" class="MsoSignature">Кыргызской 
+Республики</p></td>
+    <td style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 50%; PADDING-RIGHT: 5.4pt; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0cm" valign="top" width="50%">
+      <p style="TEXT-ALIGN: right" class="MsoSignature" align="right">&nbsp;</p>
+      <p style="TEXT-ALIGN: right" class="MsoSignature" align="right">А.Акаев</p></td></tr></tbody></table>
+<p class="MsoMessageHeader">&nbsp;</p></div>
+
+
+    
+</body>
+</html>

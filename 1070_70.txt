@@ -1,0 +1,832 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--SessionId: ca42a4ab-7b26-47e2-9844-b24ac8764f09 -->
+<head>
+    <title>Закон КР от 5 июля 2002 года № 113 &quot;О судах аксакалов&quot;</title>
+    <link rel="shortcut icon" href="/favicon.gif" type="image/gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="ru-ru"/>
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+    
+     
+    
+    <style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Текст выноски Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.a
+	{mso-style-name:"Текст выноски Знак";
+	mso-style-link:"Текст выноски";
+	font-family:"Tahoma","sans-serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin-right:0cm;
+	margin-left:0cm;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+    
+        <style type="text/css">
+            a:link
+            {
+                color: Black;
+                text-decoration: none;
+            }
+            a:visited
+            {
+                color: Black;
+                text-decoration: none;
+            }
+        </style>
+    
+
+</head>
+<body>
+    
+
+    <script src="../../../../Scripts/orphus.js" type="text/javascript"></script>
+	<a href="//orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="../../../../Scripts/orphus.gif" border="0" width="120" height="115" /></a>
+
+
+  
+
+
+
+
+
+
+
+<div class="WordSection1">
+<p style="TEXT-ALIGN: center; MARGIN-BOTTOM: 24pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 16pt"><img id="Рисунок 2" alt="Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: Описание: C:\Users\User\AppData\Local\Temp\CdbDocEditor\096aad71-243c-42f4-948e-12e0a5ebaf92\document.files\image001.jpg" src="/act/img/ru-ru/1070?property=tekst&src=image001.jpg&cl=ru-ru" width="121" height="121"></span></b></p>
+<p style="TEXT-ALIGN: center; MARGIN-BOTTOM: 24pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 16pt">ЗАКОН КЫРГЫЗСКОЙ 
+РЕСПУБЛИКИ</span></b></p>
+<p style="MARGIN-BOTTOM: 12pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">от 5 июля 2002 года № 113</span></p>
+<p style="TEXT-ALIGN: center; MARGIN-BOTTOM: 24pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'; LETTER-SPACING: 0.25pt; FONT-SIZE: 14pt">О 
+судах аксакалов</span></b></p>
+<p style="TEXT-ALIGN: center; MARGIN-BOTTOM: 12pt" class="MsoNormal" align="center"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 года № 181</a>, <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 
+года № 169</a>,<br><a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>, <a href="/act/view/ru-ru/111325?cl=ru-ru">19 апреля 2016 года № 46</a>, <a href="/act/view/ru-ru/111571?cl=ru-ru">27 апреля 
+2017 года № 64</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел I. Общие 
+положения</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел II. 
+Порядок учреждения судов аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел III. 
+Порядок рассмотрения дел (материалов) судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел IV. 
+Решение суда аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел V. Меры 
+воздействия, применяемые судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VI. 
+Порядок обжалования и исполнения решений судов аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VII. 
+Взаимоотношения судов аксакалов с другими органами</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VIII. 
+Заключительные положения</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Настоящий Закон 
+определяет правовые основы, принципы организации и деятельности судов 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел I<br>Общие 
+положения</span></b></p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_1"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 1. Суды аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов - 
+это создаваемые на добровольных началах и на основе выборности и самоуправления 
+общественные органы, призванные осуществлять рассмотрение материалов, 
+направляемых им в установленном порядке судом, прокурором, другими 
+правоохранительными органами, обладающими правом рассматривать уголовные дела, и 
+их должностными лицами в соответствии с действующим законодательством Кыргызской 
+Республики, а также дела о спорах между гражданами в случаях и порядке, 
+установленных настоящим Законом.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+могут учреждаться по решению собрания граждан, местных кенешей на территории 
+айылных аймаков, городов из числа аксакалов - мужчин и женщин, пользующихся 
+уважением и авторитетом.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+не являются юридическими лицами и не подлежат регистрации в органах юстиции. 
+Суды аксакалов имеют печать и штампы со своим наименованием.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 
+года № 181</a>, <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 года № 169</a>, <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_2"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 2. Правовая основа деятельности 
+судов аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Правовую основу 
+деятельности судов аксакалов составляют Конституция Кыргызской Республики, 
+настоящий Закон и другие нормативные правовые акты Кыргызской 
+Республики.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов в 
+своей деятельности руководствуются также своей совестью, личными убеждениями, 
+нормами морали и нравственности, исторически сложившимися из обычаев и традиций 
+народов Кыргызстана, не противоречащими законодательству Кыргызской 
+Республики.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_3"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 3. Основные задачи судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Основными 
+задачами судов аксакалов являются:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- защита 
+нарушенных или оспариваемых прав и законных интересов граждан;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- содействие 
+укреплению законности и правопорядка и предупреждение правонарушений на 
+территории айылного аймака и городов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- воспитание у 
+граждан уважения к закону, нормам морали и нравственности, исторически 
+сложившимся из обычаев и традиций.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+действуют путем убеждения, общественного воздействия, достижения примирения 
+сторон и вынесения справедливого, не противоречащего законам и другим 
+нормативным актам республики решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_4"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 4. Функции судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+рассматривают и разрешают:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- направляемые 
+местными судами материалы по гражданским делам в порядке, предусмотренном 
+гражданско-процессуальным законодательством;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- направляемые 
+судами, прокурорами, органами следствия и дознания с санкции прокурора 
+материалы, по которым были прекращены уголовные дела, для применения мер 
+общественного воздействия в соответствии с уголовно-процессуальным 
+законодательством.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Судами аксакалов 
+также могут быть рассмотрены дела по заявлению самих граждан (с согласия сторон) 
+для разрешения имущественных и семейных споров с целью достижения примирения 
+сторон и иные предусмотренные настоящим Законом дела.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+не вправе рассматривать материалы, по которым уже были вынесены судебные 
+решения, наложены административные взыскания или состоялось решение суда 
+аксакалов, принятое в пределах его компетенции.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_5"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 5. Язык, на котором ведется 
+судопроизводство</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Судопроизводство 
+судов аксакалов ведется на государственном или официальном языке, либо на языке 
+большинства населения данной местности.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+может потребовать от сторон перевода любых письменных доказательств на язык, 
+который должен применяться при рассмотрении дела.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_6"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 6. Гласность производства судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Разбирательство 
+в судах аксакалов открытое.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Закрытое 
+заседание допускается по мотивированному решению суда, ходатайству одной из 
+сторон по делам лиц, не достигших шестнадцати лет, семейным спорам, в целях 
+предотвращения разглашения сведений об интимных сторонах жизни участвующих в 
+деле.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов на 
+своих заседаниях обязан заслушать объяснения участников заседания и огласить 
+документы, имеющиеся у судей и участников заседания.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_7"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 7. Коллегиальность рассмотрения 
+дел</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В судах 
+аксакалов дела рассматриваются коллегиально - в составе председательствующего и 
+членов суда.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+правомочен рассматривать дела при наличии двух третей состава, число которого 
+должно быть нечетным.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел II<br>Порядок учреждения судов 
+аксакалов</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_8"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 8. Число членов судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+избираются в составе не менее 5 и не более 9 человек, при этом их число должно 
+быть обязательно нечетным.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_9"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 9. Требования, предъявляемые к 
+членам судов аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В состав судов 
+аксакалов могут быть избраны граждане Кыргызской Республики, достигшие возраста 
+пятидесяти лет, имеющие оконченное среднее общее образование, проживающие в 
+указанной местности не менее пяти лет, не имеющие судимость,&nbsp;пользующиеся 
+уважением и авторитетом среди населения айылного аймака и городов, по деловым и 
+моральным качествам способные выполнять задачи, поставленные перед судами 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Кандидаты в 
+члены суда аксакалов выдвигаются гражданами (жителями) и органами местного 
+самоуправления в порядке, установленном настоящим Законом.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При рассмотрении 
+дел членам судов аксакалов необходимо придерживаться делового стиля 
+одежды.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/202583?cl=ru-ru">12 июня 2009 
+года № 181</a>, <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 года № 169</a>, <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>, <a href="/act/view/ru-ru/111325?cl=ru-ru">19 апреля 
+2016 года № 46</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_10"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 10. Принципы создания судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов, 
+как правило, создаются в айылном аймаке по принципу: один населенный пункт - 
+один суд аксакалов либо один айыл окмоту - один суд аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В городах суды 
+аксакалов создаются по принципу:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- если 
+количество жителей не превышает 25 тысяч - один суд аксакалов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- если 
+количество жителей составляет от 25 тысяч до 50 тысяч - два суда аксакалов и так 
+далее.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В городах, где 
+имеются микрорайоны, суды аксакалов создаются независимо от количества жителей 
+по принципу: один микрорайон - один суд аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_11"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 11. Порядок избрания судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Члены судов 
+аксакалов избираются сроком на три года открытым голосованием на общих собраниях 
+граждан по месту жительства, а также на конференциях Советов общественности, 
+сессиях аильных, поселковых, районных (городских) кенешей. Председатели судов 
+аксакалов избираются членами судов аксакалов из их числа.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Собрания по 
+выборам судов аксакалов созываются местными кенешами или исполнительными 
+органами местного самоуправления либо по инициативе граждан в количестве не 
+менее 50 человек. Оповещение о дне выборов осуществляется местным кенешем за 
+один месяц.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Избранными в 
+состав суда считаются граждане, получившие большинство голосов присутствующих на 
+собрании. Собрание считается правомочным, если на нем присутствует не менее 50 
+дееспособных граждан - жителей данного населенного пункта.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Члены судов 
+аксакалов избирают из своего состава председателя и секретаря.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">От имени лиц, 
+проживающих по одному почтовому адресу и относящихся к одной семье, может 
+выступать их представитель (глава семьи или иной член семьи).</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Порядок принятия 
+решений Советами общественности, сессиями аильных, поселковых, районных 
+(городских) кенешей регулируется их уставами и регламентами.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 
+года № 144</a>, <a href="/act/view/ru-ru/111325?cl=ru-ru">19 апреля 2016 года № 
+46</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_12"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 12. Регистрация судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов, 
+учрежденные в соответствии с требованиями положений настоящего Закона, 
+регистрируются местными кенешами.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Для учетной 
+регистрации судов аксакалов в местные кенеши представляются протокол собрания 
+жителей данного населенного пункта либо протокол конференции соответствующего 
+Совета общественности, подтверждающий учреждение суда аксакалов и избрание его 
+членов, справка государственного органа о наличии количественного состава 
+проживающих на данной территории, заявление об учетной регистрации суда 
+аксакалов, подписанное избранными членами суда аксакалов, копии паспортов членов 
+суда аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">См. <a href="/act/view/ru-ru/23504?cl=ru-ru">постановление</a> Бишкекского горкенеша депутатов от 19 декабря 
+2003 года № 203 "Об утверждении Положения о порядке проведения учетной 
+регистрации судов аксакалов города Бишкек"</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При избрании 
+членов судов аксакалов на конференциях соответствующих Советов общественности 
+справка государственного органа о наличии количественного состава проживающих на 
+данной территории не требуется.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">По требованию 
+районных (городских) кенешей представляются и иные документы, связанные с 
+учреждением суда аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Членам судов 
+аксакалов соответствующими районными (городскими) кенешами выдаются 
+удостоверения единого образца, устанавливаемого Верховным судом Кыргызской 
+Республики.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">См. <a href="/act/view/ru-ru/54327?cl=ru-ru">постановление</a> Правительства КР от 3 апреля 2003 года № 182 
+"Об обеспечении удостоверениями членов судов аксакалов Кыргызской 
+Республики"</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_13"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 13. Отвод члена суда 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Член суда 
+аксакалов не может участвовать в рассмотрении материалов (дел), если он является 
+близким родственником спорящих сторон, а также при наличии иных обстоятельств, 
+дающих основание считать, что член суда заинтересован в исходе дела.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Отвод члена суда 
+аксакалов может быть произведен:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по заявлению 
+лиц, участвующих в деле;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по заявлениям 
+других членов суда аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Член суда 
+аксакалов подлежит отводу по собственному заявлению о самоотводе по основаниям, 
+указанным в части первой настоящей статьи.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+рассматривает заявление об отводе или самоотводе члена суда аксакалов, по итогам 
+которого принимает решение по существу.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Отвод члена суда 
+аксакалов производится по решению самого суда аксакалов, принятому большинством 
+голосов его членов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_14"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 14. Исключение члена суда 
+аксакалов из его состава</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Член суда 
+аксакалов может быть исключен из его состава по следующим основаниям:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- отказ от 
+членства суда аксакалов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- смерть члена 
+суда аксакалов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- окончание 
+срока полномочий;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- изменение 
+местожительства (переезд с данного населенного пункта);</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- привлечение к 
+уголовной ответственности и осуждение;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- отзыв члена 
+суда аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Член суда 
+аксакалов может быть отозван досрочно общим собранием граждан, конференцией 
+соответствующего Совета общественности либо сессией аильного, поселкового, 
+районного (городского) кенешей, избравших его:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- если не 
+справляется с возложенными на него обязанностями;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- в связи с 
+недостойным поведением;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- если совершил 
+правонарушение и другие проступки, несовместимые со званием члена суда 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Избрание нового 
+члена суда аксакалов взамен исключенного производится в порядке, предусмотренном 
+статьей 11 настоящего Закона.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Член суда 
+аксакалов, исключенный из состава суда в связи с окончанием срока полномочий, 
+может быть избран повторно.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><a name="r3"></a><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел III<br>Порядок рассмотрения дел 
+(материалов) судами аксакалов</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_15"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 15. Дела (материалы), 
+рассматриваемые судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+вправе рассматривать дела (материалы):</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">а) об 
+имущественных и семейных спорах граждан:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по взысканию 
+имущественного долга;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по 
+истребованию имущества из чужого незаконного владения;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по возврату 
+имущества из чужого незаконного владения;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по возврату 
+имущества, переданного на хранение;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по взысканию 
+арендной платы;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по возмещению 
+за причиненный имуществу вред;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по разделу 
+общего совместного имущества супругов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по 
+национальным брачным отношениям и традициям, связанным с брачно-семейными 
+отношениями;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">б) о 
+невыполнении родителями и другими членами семьи обязанностей по воспитанию и 
+содержанию детей;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">в) о 
+невыполнении совершеннолетними детьми обязанностей по содержанию 
+нетрудоспособных родителей или лиц, воспитавших и содержавших их в установленном 
+порядке;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">г) об оплате 
+выполненной работы по трудовому соглашению;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">д) споры по 
+поливу между пользователями земельных участков;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">е) по 
+преступлениям небольшой тяжести, предусматривающим наказание, не связанное с 
+изоляцией от общества;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">ж) связанные с 
+семейным насилием, в случаях отсутствия в деянии лица состава 
+преступления.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 
+года № 169</a>, <a href="/act/view/ru-ru/111571?cl=ru-ru">27 апреля 2017 года № 
+64</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_16"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 16. Сроки рассмотрения дел 
+(материалов) в судах аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+рассматривает дела (материалы) в 15-дневный срок с момента их поступления. В 
+случаях необходимости срок рассмотрения дел (материалов) может быть продлен на 
+срок истребования материалов либо представления участниками суда дополнительных 
+сведений, но не более чем на 15 дней.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Если иное 
+решение судами аксакалов не будет принято, в случае отсутствия кворума в течение 
+месяца дела (материалы), переданные судам аксакалов соответствующими 
+государственными органами или их должностными лицами, а также поступившие от 
+граждан заявления могут быть ими отозваны.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_17"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 17. Время и место рассмотрения 
+дел (материалов) судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Время 
+рассмотрения судами аксакалов дел (материалов) определяется председателем суда. 
+Приглашение на заседание лиц, присутствие которых на суде аксакалов необходимо, 
+производится председателем суда через участкового инспектора милиции. Извещение 
+этих лиц производится заблаговременно, но не менее чем за три дня.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+рассматривают дела (материалы) в помещениях, выделяемых исполнительными органами 
+местного самоуправления, если иное место рассмотрения не определят суды 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+рассматривает дела (материалы):</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- если 
+правонарушения были совершены на его территории;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по просьбе 
+заявителей независимо от места их проживания, если ответчик проживает на его 
+территории;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- по просьбе 
+других судов аксакалов, если правонарушитель, потерпевший либо ответчик 
+проживает на его территории.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 
+года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_18"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 18. Основания для рассмотрения 
+дел (материалов) судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Основаниями для 
+рассмотрения судами аксакалов дел (материалов) являются:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">а) представление 
+местных кенешей или их исполнительных органов;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">б) материалы, 
+переданные государственными органами или их должностными лицами, которым 
+представлено право налагать административные взыскания;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">в) материалы, 
+переданные в установленном порядке судом, прокурором и другими 
+правоохранительными органами, обладающими правом рассматривать уголовные 
+дела;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">г) заявления 
+граждан;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">д) заявления 
+других судов аксакалов.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Законов КР от <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 года № 169</a>, <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 
+года № 144</a>)&nbsp;</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_19"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 19. Действия суда аксакалов по 
+подготовке дел (материалов) к рассмотрению</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+производит проверку поступивших заявлений и других материалов, связанных с 
+рассмотрением дел (материалов). Проверка может производиться как председателем 
+суда, так и по его поручению членом суда.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При 
+необходимости производится опрос или отбираются объяснения от лица, 
+привлекаемого к суду аксакалов, потерпевшего, свидетелей.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Лицо, 
+производящее проверку, по ее результатам составляет заключение, в котором 
+указываются фактические обстоятельства дела, причины совершенного проступка, 
+данные о личности привлекаемого к суду аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_20"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 20. Ознакомление участников 
+спора с имеющимися материалами</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+обязан ознакомить лицо, привлекаемое к суду аксакалов, а также потерпевшего и 
+других участников спора, с имеющимися материалами.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Последние имеют 
+право ходатайствовать перед судом об истребовании дополнительных 
+материалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_21"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 21. Открытие заседания 
+суда</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В назначенное 
+для рассмотрения дел (материалов) время председатель либо по его поручению один 
+из членов суда аксакалов открывает заседание суда аксакалов и объявляет какие 
+дела (материалы) подлежат рассмотрению.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_22"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 22. Проверка явки лиц, 
+участвующих в процессе, и разъяснение их прав</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Председательствующий после открытия 
+заседания удостоверяется в явке вызванных в суд лиц, разъясняет привлеченному к 
+суду, потерпевшему и иным участникам процесса их права, после чего выясняет 
+имеются ли у них отводы составу суда и ходатайства, а по имущественным и 
+семейным спорам - согласие сторон на рассмотрение их дела судом 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Лица, 
+участвующие в процессе, вправе принимать участие в исследовании доказательств и 
+заявлять ходатайства, в том числе об истребовании дополнительных 
+материалов.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_23"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 23. Рассмотрение дела по 
+существу</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">После решения 
+вопроса об отводах и ходатайствах председательствующий излагает существо 
+проступка или правонарушения, совершенного лицом, привлеченным к суду, а также 
+результаты произведенной проверки, а по заявлениям граждан - предмет и существо 
+спора.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Затем суд 
+заслушивает объяснения привлеченного к суду, потерпевшего, ответчика, свидетелей 
+и иных участников процесса и рассматривает все необходимые по делу 
+материалы.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При отсутствии 
+дополнений со стороны участников процесса председательствующий объявляет 
+рассмотрение дела оконченным и суд удаляется в отдельное помещение для вынесения 
+решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В случае 
+необходимости в получении каких-либо дополнительных данных или сведений суд, не 
+вынося решения по существу проступка или правонарушения, заявления граждан 
+вправе отложить заседание или перенести его на другой срок.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Разбирательство 
+дел в судах аксакалов производится бесплатно.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_24"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 24. Протокол судебного 
+заседания суда аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При рассмотрении 
+дела член суда аксакалов ведет протокол.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Протокол суда 
+аксакалов должен содержать данные о составе суда, характере дела, времени и 
+месте его рассмотрения, сведения о лицах, участвовавших на заседании суда 
+аксакалов при рассмотрении дела, их заявления и краткие выступления (объяснения, 
+ходатайства) и принятое решение.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Протокол 
+заседания суда аксакалов подписывается председательствующим и 
+секретарем.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>) </span></i></p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел IV<br>Решение суда 
+аксакалов</span></b></p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_25"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 25. Вынесение 
+решения</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Постановление 
+суда аксакалов, которым дело разрешается по существу, выносится в форме 
+решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Решение суда 
+аксакалов принимается большинством голосов, всех членов суда, участвующих в 
+рассмотрении дела. Член суда, не согласный с решением, излагает свое особое 
+мнение, которое прилагается к решению.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_26"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 26. Обоснованность 
+решения</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд основывает 
+решение лишь на тех доказательствах, которые были исследованы в судебном 
+заседании.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_27"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 27. Форма и содержание решения 
+суда</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Решение суда 
+аксакалов излагается в письменной форме, в котором должны 
+указываться:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- время и место 
+вынесения решения, наименование суда, вынесшего решение, состав суда и лиц, 
+участвующих в деле;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- предмет спора 
+или содержание правонарушения;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- обстоятельства 
+дела, установленные судом, доказательства, на которых основаны выводы суда об 
+обстоятельствах дела, доводы, по которым суд отвергает те или иные 
+доказательства;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- законы, 
+которыми руководствовался суд при вынесении решения;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- заключение, 
+принятое судом аксакалов по рассмотренному материалу;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- срок и порядок 
+обжалования принятого решения;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">- срок 
+исполнения решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Решение 
+подписывается председательствующим и членами суда до объявления его на заседании 
+суда аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел V<br>Меры воздействия, 
+применяемые судами аксакалов</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_28"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 28. Меры воздействия</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов, 
+установив виновность привлеченного к суду, может вынести решение о применении 
+одной из следующих мер воздействия:</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">а) вынести 
+предупреждение;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">б) обязать 
+принести публичное извинение потерпевшей стороне;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">в) объявить 
+общественное порицание;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">г) обязать 
+виновную сторону возместить причиненный материальный ущерб;</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">д) наложить 
+денежный штраф.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">По семейным 
+спорам суд принимает решение по существу рассматриваемого спора.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Если суд 
+аксакалов не достиг примирения сторон по имущественным и семейным спорам, он 
+принимает решение по существу рассматриваемого вопроса.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">О мерах 
+общественного воздействия, примененных к лицам, совершившим административное 
+правонарушение, суд аксакалов обязан сообщить в 10-дневный срок органу 
+(должностному лицу), направившему материал.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд не вправе 
+выносить решение о наказаниях, унижающих человеческое достоинство.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Указанный 
+перечень мер общественного воздействия является исчерпывающим и расширительному 
+толкованию не подлежит.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В случае 
+наложения мер воздействия, не предусмотренных настоящим Законом, такое наказание 
+является незаконным и исполнению не подлежит.</span></p>
+<p style="TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 12pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции Закона КР от <a href="/act/view/ru-ru/1284?cl=ru-ru">30 июля 2003 года № 158</a>, <a href="/act/view/ru-ru/203978?cl=ru-ru">30 июля 2013 
+года № 169</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_29"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 29. Распределение денежных 
+штрафов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Денежные штрафы, 
+налагаемые судом аксакалов, зачисляются в местный бюджет, 70 процентов из 
+которых направляются на обеспечение осуществления деятельности суда 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/111325?cl=ru-ru">19 апреля 2016 года № 46</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VI<br>Порядок обжалования и 
+исполнения решений судов аксакалов</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_30"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 30. Порядок обжалования решений 
+суда аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Решение суда 
+аксакалов может быть обжаловано лицом, в отношении которого вынесено решение, и 
+иными лицами, участвующими в деле в течение 10 дней со дня вынесения 
+решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Жалоба подается 
+в районный или городской суд, на территории которого образован суд 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Жалоба 
+рассматривается единолично судьей районного или городского суда в течение 10 
+дней со дня ее поступления. При этом судья проверяет соответствие решения суда 
+аксакалов действующему законодательству Кыргызской Республики, настоящему 
+Закону, а также обстоятельствам дела.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Если судья 
+районного или городского суда найдет жалобу обоснованной, то он мотивированно 
+отменяет решение суда аксакалов и возвращает материалы для повторного 
+рассмотрения либо прекращает производство.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_31"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 31. Порядок исполнения решений 
+суда аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Решение суда 
+аксакалов о возмещении причиненного ущерба или об имущественном взыскании должно 
+исполняться привлекавшимся к суду лицом в срок, указанный в решении 
+суда.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суд аксакалов 
+осуществляет контроль за исполнением своих решений.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_32"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 32. Принудительное исполнение 
+решения суда аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">В случае 
+неисполнения сторонами решения в установленные сроки исполнительный лист на 
+принудительное исполнение выдается районным или городским судом, на территории 
+которого находится суд аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Заявление о 
+выдаче исполнительного листа на принудительное исполнение решения суда аксакалов 
+подается в районный или городской суд по территориальности стороной, в пользу 
+которой вынесено решение.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Заявление может 
+быть подано в течение месяца со дня окончания срока исполнения 
+решения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">К заявлению 
+прилагаются документы, подтверждающие неисполнение решения суда 
+аксакалов.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Заявления, 
+поданные с нарушением установленного срока либо без приложения необходимых 
+документов, возвращаются районным или городским судом без 
+рассмотрения.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">При наличии 
+уважительных причин пропуска срока на подачу заявления о выдаче исполнительного 
+листа сроки могут быть восстановлены по ходатайству стороны районным или 
+городским судом.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Заявление 
+рассматривается единолично судьей в месячный срок со дня его получения районным 
+или городским судом. При этом судья проверяет соответствие решения суда 
+аксакалов действующему законодательству Кыргызской Республики.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">По результатам 
+рассмотрения заявления выносится определение о выдаче исполнительного листа либо 
+об отказе в выдаче такового.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VII<br>Взаимоотношения судов 
+аксакалов с другими органами</span></b></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_33"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 33. Материально-техническое 
+обеспечение судов аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Материально-техническое обеспечение 
+деятельности судов аксакалов и поощрение членов судов аксакалов осуществляются 
+за счет средств соответствующего местного бюджета, а также средств, поступающих 
+от различных юридических лиц и граждан, в порядке, утверждаемом местным 
+кенешем.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/111325?cl=ru-ru">19 апреля 2016 года № 46</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_34"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 34. Оказание методической и 
+иной помощи судам аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Методическую 
+помощь по применению законодательства судам аксакалов оказывают районные 
+(городские) суды, на территории которых они образованы.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">На заседании 
+судов аксакалов правопорядок, а также в необходимых случаях принудительное 
+приведение на заседания судов аксакалов правонарушителей, ответчиков 
+обеспечивают органы внутренних дел.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_35"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 35. Отчетность судов 
+аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+ведут статистический учет рассмотренных дел (материалов).</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов 
+не реже одного раза в год отчитываются о своей деятельности перед общими 
+собраниями граждан, конференциями Советов общественности, сессиями аильных, 
+поселковых, районных (городских) кенешей, учредивших их.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_36"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 36. Хранение материалов дел, 
+рассматриваемых судами аксакалов</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">После 
+рассмотрения дел судами аксакалов материалы передаются для хранения в 
+исполнительные органы местного самоуправления.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><i><span style="FONT-FAMILY: 'Arial','sans-serif'">(В редакции 
+Закона КР от <a href="/act/view/ru-ru/205365?cl=ru-ru">18 июля 2014 года № 144</a>)</span></i></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Раздел VIII<br>Заключительные 
+положения</span></b></p>
+<p style="PAGE-BREAK-AFTER: avoid; TEXT-ALIGN: center; MARGIN-TOP: 10pt" class="MsoNormal" align="center">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><a name="st_37"></a><span style="FONT-FAMILY: 'Arial','sans-serif'">Статья 37. Вступление в силу 
+настоящего Закона</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Настоящий Закон 
+вступает в силу со дня опубликования.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов, 
+образованные до принятия настоящего Закона, сохраняют статус 
+действующих.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal"><span style="FONT-FAMILY: 'Arial','sans-serif'">Суды аксакалов, 
+образованные и действующие, но не прошедшие учетную регистрацию в районных 
+(городских) кенешах, подлежат в месячный срок регистрации в соответствии с 
+требованиями статьи 12 настоящего Закона.</span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: 19.85pt; MARGIN-BOTTOM: 6pt" class="MsoNormal">&nbsp;</p>
+<table style="WIDTH: 100%; BORDER-COLLAPSE: collapse" class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody>
+  <tr>
+    <td style="PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 50%; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0cm" valign="top" width="50%">
+      <p style="LINE-HEIGHT: 115%" class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      Президент</span></b></p>
+      <p style="LINE-HEIGHT: 115%" class="MsoNormal"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">Кыргызской 
+      Республики</span></b></p></td>
+    <td style="PADDING-BOTTOM: 0cm; PADDING-LEFT: 5.4pt; WIDTH: 50%; PADDING-RIGHT: 5.4pt; PADDING-TOP: 0cm" valign="top" width="50%">
+      <p style="TEXT-ALIGN: right; LINE-HEIGHT: 115%" class="MsoNormal" align="right">&nbsp;</p>
+      <p style="TEXT-ALIGN: right; LINE-HEIGHT: 115%" class="MsoNormal" align="right"><b><span style="FONT-FAMILY: 'Arial','sans-serif'">А. 
+      Акаев</span></b></p></td></tr></tbody></table>
+<p class="MsoNormal">&nbsp;</p></div>
+
+
+    
+</body>
+</html>

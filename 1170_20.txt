@@ -1,0 +1,2394 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!--SessionId: 82b8a61c-64eb-4e5b-a447-d8d54f56f136 -->
+<head>
+    <title>Закон КР от 27 февраля 2003 года № 46 &quot;О внесении изменений и дополнений в некоторые законодательные акты Кыргызской Республики&quot;</title>
+    <link rel="shortcut icon" href="/favicon.gif" type="image/gif" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="ru-ru"/>
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+    
+     
+    
+    <style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+pre
+	{mso-style-link:"Стандартный HTML Знак";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+span.HTML
+	{mso-style-name:"Стандартный HTML Знак";
+	mso-style-link:"Стандартный HTML";
+	font-family:"Courier New";}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+
+    
+        <style type="text/css">
+            a:link
+            {
+                color: Black;
+                text-decoration: none;
+            }
+            a:visited
+            {
+                color: Black;
+                text-decoration: none;
+            }
+        </style>
+    
+
+</head>
+<body>
+    
+
+    <script src="../../../../Scripts/orphus.js" type="text/javascript"></script>
+	<a href="//orphus.ru" id="orphus" target="_blank"><img alt="Система Orphus" src="../../../../Scripts/orphus.gif" border="0" width="120" height="115" /></a>
+
+
+  
+
+
+
+
+
+
+
+<div class="WordSection1">
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">г.Бишкек, от 27 февраля 2003 
+года № 
+46&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ЗАКОН КЫРГЫЗСКОЙ 
+РЕСПУБЛИКИ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+О внесении изменений и дополнений в некоторые</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+законодательные акты Кыргызской Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><i><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; (В редакции Закона КР от <a href="/act/view/ru-ru/111412?cl=ru-ru">23 июля 2016 года № 
+133</a>)</span></i></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Принят Законодательным собранием</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Жогорку Кенеша Кыргызской 
+Республики&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21 января 2003 
+года</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 1.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в Патентный <a href="/act/view/ru-ru/19?cl=ru-ru">Закон</a> Кыргызской Республики (Ведомости 
+Жогорку</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кенеша Кыргызской 
+Республики,&nbsp; 1998 г., N3, ст.69) следующие изменения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">и 
+дополнения:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1. 
+По всему тексту Закона:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+слова: "охранный документ" в различных падежных и числовых формах</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заменить словом "патент" в 
+соответствующих падежах и числах;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+слова: "предварительный патент",&nbsp; "свидетельство", 
+"свидетельство</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">на",&nbsp; "или&nbsp; 
+свидетельство"&nbsp; в&nbsp; различных&nbsp; падежных&nbsp; и&nbsp; числовых 
+формах</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2. 
+В статье 2:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+название статьи изложить в&nbsp; следующей&nbsp; редакции:&nbsp; 
+"Уполномоченный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">государственный орган 
+Кыргызской Республики в области интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части первой слова: "Государственное агентство интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности&nbsp; 
+при&nbsp; Правительстве&nbsp; Кыргызской&nbsp;&nbsp; Республики"&nbsp;&nbsp; 
+заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словами: "Уполномоченный 
+государственный орган Кыргызской Республики в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">области интеллектуальной 
+собственности".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3. 
+В статье 3:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Право на&nbsp; объект промышленной собственности охраняется 
+настоящим</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Законом и 
+подтверждается&nbsp; патентом,&nbsp; который&nbsp; удостоверяет&nbsp; 
+приоритет,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">авторство&nbsp; и&nbsp; 
+исключительное&nbsp; право&nbsp; владельца&nbsp; патента на этот 
+объект</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">промышленной 
+собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части вторую и третью исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части четвертую,&nbsp; пятую считать&nbsp; соответственно&nbsp; частями&nbsp; 
+второй,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">третьей.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 4. 
+Статью 4 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 4. Сроки действия патента</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Патент на изобретение действует в течение двадцати лет,&nbsp; считая 
+с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты&nbsp; подачи&nbsp; 
+заявки&nbsp; в&nbsp; Кыргызпатент.&nbsp; Срок&nbsp;&nbsp; действия&nbsp;&nbsp; 
+патента&nbsp;&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретение,&nbsp;&nbsp; 
+относящееся&nbsp;&nbsp; к&nbsp;&nbsp; фармацевтике,&nbsp;&nbsp; 
+может&nbsp;&nbsp; быть&nbsp; продлен</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатентом по 
+ходатайству владельца, но не более чем на пять лет.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Патент на полезную модель действует в течение пяти лет,&nbsp; считая 
+с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты подачи заявки в 
+Кыргызпатент.&nbsp; Срок действия патента на&nbsp; полезную</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">модель&nbsp; 
+продлевается&nbsp; Кыргызпатентом&nbsp; по ходатайству владельца,&nbsp; но 
+не</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">более чем на три 
+года.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Патент на&nbsp; промышленный&nbsp; образец&nbsp; действует в течение десяти 
+лет,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">считая с даты подачи заявки 
+в Кыргызпатент.&nbsp; Срок действия патента&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">промышленный&nbsp;&nbsp; 
+образец&nbsp;&nbsp; продлевается&nbsp; Кыргызпатентом&nbsp; по&nbsp; 
+ходатайству</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельца патента, но не 
+более чем на пять лет".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 5. 
+В статье 7:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую дополнить предложением следующего&nbsp; содержания:&nbsp; 
+"При</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">этом&nbsp; под&nbsp; 
+изделием&nbsp; понимается&nbsp; предмет&nbsp; промышленного или 
+кустарного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">производства";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части второй слова: "и промышленно применимым" исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть седьмую исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части восьмую,&nbsp; девятую&nbsp; считать&nbsp; соответственно частями 
+седьмой,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">восьмой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 6. 
+В статье 11:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; первой&nbsp; слова:&nbsp;&nbsp; "предварительным&nbsp;&nbsp; 
+патентом,&nbsp;&nbsp; патентом</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретение,&nbsp; 
+промышленный образец,&nbsp; свидетельством - полезную модель"</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заменить словами: "патентом 
+на объекты промышленной собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частью второй следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Исключительное право&nbsp;&nbsp; на&nbsp;&nbsp; охраняемые&nbsp;&nbsp; 
+объекты&nbsp;&nbsp;&nbsp; промышленной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности&nbsp; 
+возникает с даты публикации сведений о выдаче патента в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">официальном бюллетене, 
+издаваемом Кыргызпатентом";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части четвертую и пятую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Использованием объекта&nbsp; промышленной&nbsp; собственности&nbsp;&nbsp; 
+признаются</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изготовление,&nbsp; 
+применение,&nbsp; ввоз, предложение к продаже, продажа, иное</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">введение в хозяйственный 
+оборот или хранение с&nbsp; этой&nbsp; целью&nbsp; продукта,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">содержащего охраняемые 
+патентом объекты промышленной собственности,&nbsp; а</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">также применение способа, 
+охраняемого патентом на изобретение.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Продукт признается содержащим охраняемое патентом на изобретение,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полезную модель, если он 
+содержит каждый признак изобретения, полезной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">модели,&nbsp; 
+приведенный&nbsp; в независимом пункте формулы,&nbsp; или 
+эквивалентный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ему 
+признак, известный в качестве такового в данной области техники на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дату начала использования. 
+Способ, охраняемый патентом на изобретение,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">признается 
+примененным,&nbsp; если&nbsp; применен&nbsp; каждый&nbsp; признак&nbsp; 
+изобретения,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">приведенный&nbsp; в&nbsp; 
+независимом&nbsp; пункте&nbsp; формулы,&nbsp; или&nbsp; эквивалентный&nbsp; 
+ему</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">признак,&nbsp; известный в 
+качестве такового в данной&nbsp; области&nbsp; техники&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дату начала 
+использования";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части вторую-одиннадцатую&nbsp;&nbsp;&nbsp; считать&nbsp;&nbsp;&nbsp; 
+соответственно&nbsp;&nbsp;&nbsp; частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">третьей-двенадцатой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 7. 
+В статье 14:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+название статьи дополнить словами: "и временная правовая охрана";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части первой:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+слова: "изобретения,&nbsp;&nbsp; полезной&nbsp; модели,&nbsp; 
+промышленного&nbsp; образца"</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заменить словами: "объекта 
+промышленной собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть дополнить словами: "такого использования";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частями третьей-восьмой следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Заявленному изобретению&nbsp; с&nbsp; даты публикации сведений о заявке 
+до</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты публикации сведений о 
+выдаче&nbsp; патента&nbsp; предоставляется&nbsp; временная</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">правовая&nbsp; охрана в 
+объеме опубликованной формулы,&nbsp; но не в большем чем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объем, определяемый 
+формулой, содержащейся в выданном патенте.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Временная правовая&nbsp; охрана считается не наступившей,&nbsp; если 
+заявка</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отозвана либо считается 
+отозванной или если принято решение об&nbsp; отказе</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в 
+выдаче патента и возможности его обжалования исчерпаны.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Физическое или&nbsp;&nbsp; юридическое&nbsp;&nbsp; лицо,&nbsp;&nbsp; 
+использующее&nbsp;&nbsp;&nbsp; заявленное</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретение&nbsp; в&nbsp; 
+период&nbsp; его&nbsp; временной&nbsp; правовой&nbsp; охраны,&nbsp; 
+выплачивает</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельцу патента,&nbsp; 
+после&nbsp; получения&nbsp; патента,&nbsp; денежную&nbsp; 
+компенсацию.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Размер компенсации 
+определяется соглашением сторон.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Положения части пятой настоящей статьи распространяются также&nbsp; 
+на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объекты&nbsp;&nbsp; 
+промышленной&nbsp;&nbsp; собственности&nbsp;&nbsp; с&nbsp; даты&nbsp; 
+помещения&nbsp; средства,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">содержащего такие объекты 
+промышленной собственности,&nbsp; на&nbsp; официальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">или&nbsp; официально&nbsp; 
+признанной международной выставке,&nbsp; организованной на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">территории&nbsp; 
+государства-участника&nbsp; Парижской&nbsp;&nbsp; конвенции&nbsp;&nbsp; 
+по&nbsp;&nbsp; охране</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">промышленной 
+собственности,&nbsp; при условии, что заявка на выдачу патента</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подана в Кыргызпатент не 
+позднее шести месяцев с указанной даты.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Лицо, начавшее&nbsp; использование&nbsp; объекта промышленной 
+собственности</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">после даты приоритета,&nbsp; 
+но до даты публикации&nbsp; сведений&nbsp; о&nbsp; заявке&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">выдачу патента на 
+изобретение, а также сведений о регистрации полезных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">моделей или промышленных 
+образцов,&nbsp; обязано&nbsp; по&nbsp; требованию&nbsp; заявителя</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">прекратить дальнейшее 
+использование.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Однако такое&nbsp; лицо&nbsp; не&nbsp; обязано&nbsp;&nbsp; возмещать 
+&nbsp;&nbsp;заявителю&nbsp;&nbsp; убытки,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">понесенные им в результате 
+такого использования. В случае невыполнения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">требования заявителя,&nbsp; 
+предусмотренного частью 7 настоящей статьи,&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">нарушителя&nbsp;&nbsp; 
+распространяют&nbsp; свое&nbsp; действие&nbsp; нормы,&nbsp; 
+предусматривающие</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ответственность за нарушение 
+прав владельца патента в&nbsp; соответствии&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">законодательством Кыргызской 
+Республики".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 8. 
+Часть первую статьи 16 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Нарушением патента признается использование охраняемого патентом</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объекта&nbsp;&nbsp; 
+промышленной&nbsp;&nbsp; собственности&nbsp;&nbsp; без&nbsp;&nbsp;&nbsp; 
+соблюдения&nbsp;&nbsp;&nbsp; условий,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">установленных настоящим 
+Законом".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 9. 
+Часть&nbsp; четвертую&nbsp; статьи&nbsp; 17&nbsp; дополнить&nbsp;&nbsp; 
+словами&nbsp;&nbsp; следующего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">содержания: ", за 
+исключением процедур, связанных с установлением даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подачи заявки,&nbsp; уплатой 
+пошлин,&nbsp; предоставлением копии&nbsp; предшествующей</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки&nbsp;&nbsp;&nbsp; 
+в&nbsp;&nbsp;&nbsp; случае&nbsp;&nbsp;&nbsp; испрашивания&nbsp;&nbsp;&nbsp; 
+конвенционного&nbsp;&nbsp;&nbsp; приоритета,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предоставлением копии ранее 
+поданной&nbsp; заявки,&nbsp; получением&nbsp; расписок&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уведомлений&nbsp; 
+Кыргызпатента в отношении вышеназванных процедур,&nbsp; уплаты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">пошлины за поддержание 
+патента в силе".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 10. 
+Часть шестую статьи 18 исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 11. 
+В статье 19:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+названии&nbsp; статьи,&nbsp; части&nbsp; первой&nbsp; и пункте 1 части второй 
+слово</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"свидетельство" в различных 
+падежных формах заменить словом "патент" в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствующих 
+падежах;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть шестую исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 12. 
+В статье 20:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+названии и по&nbsp; всему&nbsp; тексту&nbsp; статьи&nbsp; слова:&nbsp; 
+"предварительного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента" и "предварительного 
+патента или" исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть шестую исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 13. 
+В статье 21:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+название статьи изложить в следующей редакции: "Приоритет объекта</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">промышленной 
+собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Приоритет изобретения&nbsp; и полезной модели устанавливается по 
+дате</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подачи в Кыргызпатент 
+заявки, содержащей:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+заявление о выдаче патента на изобретение, полезную модель - с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанием 
+заявителя;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+описание&nbsp; изобретения,&nbsp; полезной&nbsp; модели&nbsp; либо&nbsp; часть 
+описания</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp; полезной 
+модели,&nbsp; включающую все&nbsp; существенные&nbsp; признаки</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявляемого&nbsp; 
+изобретения,&nbsp; полезной&nbsp; модели,&nbsp; либо&nbsp; чертеж как 
+элемент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">упомянутого описания,&nbsp; 
+либо ссылку на раннее&nbsp; поданную&nbsp; заявку&nbsp; любого</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">вида,&nbsp; 
+предусмотренную&nbsp; частями шестой,&nbsp; седьмой,&nbsp; восьмой,&nbsp; 
+девятой и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">десятой&nbsp; 
+настоящей&nbsp; статьи.&nbsp; Если&nbsp;&nbsp; заявка&nbsp;&nbsp; не&nbsp;&nbsp; 
+содержит&nbsp;&nbsp; указанных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">документов,&nbsp;&nbsp; 
+Кыргызпатент&nbsp;&nbsp; незамедлительно&nbsp; уведомляет&nbsp; заявителя&nbsp; 
+о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">необходимости&nbsp; их&nbsp; 
+предоставления&nbsp; в&nbsp; течение&nbsp; двух&nbsp; месяцев&nbsp; 
+с&nbsp;&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">получения 
+уведомления";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Приоритет промышленного образца устанавливается по дате подачи в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент заявки, 
+содержащей:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+заявление о выдаче патента на промышленный образец с указанием</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителя;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+комплект&nbsp; изображений изделия (макета),&nbsp; перечень 
+существенных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">признаков промышленного 
+образца. &nbsp;Если заявка&nbsp; не&nbsp; содержит&nbsp; указанных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">документов,&nbsp;&nbsp; 
+Кыргызпатент&nbsp;&nbsp; незамедлительно&nbsp; уведомляет&nbsp; заявителя&nbsp; 
+о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">необходимости&nbsp; их&nbsp; 
+предоставления&nbsp; в&nbsp; течение&nbsp; двух&nbsp; месяцев&nbsp; 
+с&nbsp;&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">получения 
+уведомления";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть третью дополнить&nbsp; предложением&nbsp; следующего&nbsp; 
+содержания:&nbsp; "В</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отсчет этих сроков день 
+подачи первой заявки не включается";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть пятую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Заявитель, желающий&nbsp;&nbsp;&nbsp; воспользоваться&nbsp;&nbsp; 
+правом&nbsp;&nbsp; конвенционного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">приоритета, обязан указать 
+на это при подаче заявки или в течение двух</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">месяцев&nbsp; с&nbsp; 
+даты&nbsp; подачи заявки в Кыргызпатент и приложить копию ранее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поданной заявки или 
+предоставить ее не позднее четырех месяцев с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поступления заявки в 
+Кыргызпатент";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp;&nbsp; десятой&nbsp;&nbsp; слова:&nbsp;&nbsp; 
+"изобретения,&nbsp;&nbsp;&nbsp; полезной&nbsp;&nbsp;&nbsp; модели,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">промышленного&nbsp;&nbsp; 
+образца"&nbsp;&nbsp; заменить&nbsp;&nbsp; словами:&nbsp; "объекта&nbsp; 
+промышленной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 14. 
+Статью 23 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 23. Экспертиза заявки на изобретение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp; &nbsp;По 
+заявке&nbsp; на&nbsp; изобретение&nbsp; Кыргызпатент&nbsp; проводит&nbsp; 
+формальную&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предварительную 
+экспертизу.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+ходатайству&nbsp;&nbsp; заявителя,&nbsp;&nbsp; которое&nbsp;&nbsp; 
+может&nbsp;&nbsp; быть&nbsp;&nbsp; подано&nbsp;&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент&nbsp; 
+одновременно&nbsp; с&nbsp; подачей&nbsp; заявки&nbsp; или в течение 
+тридцати</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">месяцев с даты подачи,&nbsp; 
+рассмотрение заявки может быть осуществлено&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведением&nbsp;&nbsp; 
+или&nbsp;&nbsp; без&nbsp;&nbsp; проведения&nbsp;&nbsp; экспертизы&nbsp; по&nbsp; 
+существу.&nbsp; Если</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ходатайство не подано в 
+указанный срок, заявка признается отозванной".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 15. 
+Закон дополнить статьями 23-1 и 23-2 следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 23-1. Формальная экспертиза заявки на изобретение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+ходе проведения формальной экспертизы заявки на&nbsp; изобретение&nbsp; 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">течение&nbsp;&nbsp; 
+двух&nbsp; месяцев&nbsp; проверяется&nbsp; состав&nbsp; необходимых&nbsp; 
+документов,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предусмотренных&nbsp; 
+статьей&nbsp; 18&nbsp; настоящего&nbsp;&nbsp; Закона,&nbsp;&nbsp; 
+правильность&nbsp;&nbsp; их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">оформления,&nbsp;&nbsp; 
+рассматривается&nbsp;&nbsp; соответствие&nbsp; заявленного&nbsp; 
+предложения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объектам, которым 
+предоставляется правовая охрана.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Если в&nbsp; результате формальной экспертизы установлено,&nbsp; что 
+заявка</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подана&nbsp; на&nbsp;&nbsp; 
+предложение,&nbsp;&nbsp; не&nbsp;&nbsp; относящееся&nbsp;&nbsp; к&nbsp;&nbsp; 
+объектам,&nbsp;&nbsp; которым</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предоставляется правовая 
+охрана,&nbsp; выносится решение об отказе в выдаче</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке,&nbsp; поданной&nbsp; с&nbsp; нарушением&nbsp; установленных&nbsp; 
+требований&nbsp; к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">оформлению и составлению, 
+заявителю направляется запрос с предложением</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в&nbsp; двухмесячный срок с 
+даты получения запроса представить исправленные</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">или 
+отсутствующие материалы.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+случае&nbsp;&nbsp; если&nbsp;&nbsp; заявитель&nbsp;&nbsp; в&nbsp;&nbsp; 
+указанный&nbsp; срок&nbsp; не&nbsp; представит</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">запрашиваемые материалы 
+или&nbsp; ходатайство&nbsp; о&nbsp; продлении&nbsp; установленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">срока, заявка признается 
+отозванной.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Если заявка&nbsp; удовлетворяет&nbsp; требованиям&nbsp; формальной&nbsp;&nbsp; 
+экспертизы,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителю&nbsp; направляется 
+уведомление о принятии заявки к рассмотрению с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанием даты ее 
+подачи.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 23-2. Предварительная экспертиза заявки на изобретение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении предварительной экспертизы заявки&nbsp; Кыргызпатент&nbsp; 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">течение десяти месяцев 
+проверяет соблюдение установленных требований к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">содержанию документов&nbsp; 
+заявки,&nbsp; соответствие&nbsp; заявленного&nbsp; изобретения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">условиям&nbsp; 
+патентоспособности&nbsp; по&nbsp; представленным заявителем 
+материалам</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки,&nbsp; 
+неотозванным&nbsp; заявкам&nbsp; с&nbsp; более&nbsp; ранним&nbsp; 
+приоритетом,&nbsp;&nbsp; фонду</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">выданных&nbsp;&nbsp; 
+охранных&nbsp;&nbsp; документов&nbsp;&nbsp; Кыргызской&nbsp;&nbsp; 
+Республики,&nbsp;&nbsp; а&nbsp; также</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">опубликованным евразийским 
+заявкам и патентам, устанавливает приоритет</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp;&nbsp; 
+проверяет&nbsp;&nbsp; соответствие&nbsp; заявки&nbsp; требованиям&nbsp; 
+единства</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Заявитель вправе&nbsp;&nbsp;&nbsp;&nbsp; при&nbsp;&nbsp;&nbsp;&nbsp; 
+уплате&nbsp;&nbsp;&nbsp; соответствующей&nbsp;&nbsp;&nbsp; пошлины</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ходатайствовать о проведении 
+ускоренной предварительной экспертизы&nbsp; по</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявке на изобретение. В 
+случае если до истечения двенадцати месяцев с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты подачи заявки в 
+Кыргызпатент или, если испрашивается приоритет, с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты&nbsp; приоритета 
+принято решение о выдаче патента или выдан патент и в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанный выше срок 
+поступила&nbsp; тождественная&nbsp; заявка&nbsp; с&nbsp; 
+истребованием</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">более&nbsp;&nbsp; 
+раннего&nbsp; приоритета,&nbsp; решение&nbsp; о&nbsp; выдаче&nbsp; патента&nbsp; 
+или&nbsp; патент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">аннулируются.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Если заявителем&nbsp; в&nbsp; соответствии&nbsp; со статьей 22 настоящего 
+Закона</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">представлены&nbsp; 
+дополнительные&nbsp;&nbsp; материалы, &nbsp;&nbsp;в&nbsp;&nbsp; ходе&nbsp;&nbsp; 
+предварительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизы&nbsp; 
+проверяется,&nbsp; не&nbsp; изменяют&nbsp; ли&nbsp; они&nbsp; сущность&nbsp; 
+заявленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Дополнительные материалы&nbsp;&nbsp;&nbsp;&nbsp; 
+изменяют&nbsp;&nbsp;&nbsp;&nbsp; сущность&nbsp;&nbsp;&nbsp; 
+заявленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp; 
+если&nbsp; они&nbsp; содержат&nbsp; подлежащие&nbsp; включению&nbsp;&nbsp; 
+в&nbsp;&nbsp; формулу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения&nbsp; 
+признаки,&nbsp; отсутствовавшие&nbsp; в&nbsp; первоначальных&nbsp; 
+материалах</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Дополнительные материалы в части, изменяющей сущность заявленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp; не 
+принимаются во внимание&nbsp; при&nbsp; рассмотрении&nbsp; заявки&nbsp; 
+и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">могут быть оформлены 
+заявителем в качестве самостоятельной заявки.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке,&nbsp; поданной с нарушением требований единства,&nbsp; 
+заявителю</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предлагается в двухмесячный 
+срок сообщить, какое из предложений должно</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассматриваться, и уточнить 
+соответственно документы заявки.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Другие решения, вошедшие в материалы первоначальной заявки, могут</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">быть оформлены выделенными 
+заявками.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+случае&nbsp; если&nbsp; заявитель&nbsp; в&nbsp; двухмесячный&nbsp; срок с даты 
+получения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уведомления о нарушении 
+требований единства&nbsp; изобретения&nbsp; не&nbsp; сообщит,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">какое&nbsp;&nbsp; из&nbsp; 
+предложений&nbsp; необходимо&nbsp; рассматривать,&nbsp; и&nbsp; не&nbsp; 
+представит</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уточненных документов, 
+проводится рассмотрение предложения, указанного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в 
+формуле первым.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+период&nbsp; проведения&nbsp; предварительной&nbsp;&nbsp; экспертизы&nbsp;&nbsp; 
+Кыргызпатент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">вправе&nbsp; запросить&nbsp; 
+у&nbsp; заявителя дополнительные материалы,&nbsp; без которых</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведение экспертизы 
+невозможно.&nbsp; Дополнительные материалы по запросу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизы&nbsp; 
+должны&nbsp; быть&nbsp; представлены&nbsp; в&nbsp; двухмесячный&nbsp; срок&nbsp; 
+с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">получения 
+запроса.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+случае&nbsp; если&nbsp; заявитель&nbsp; в&nbsp; установленный&nbsp; срок&nbsp; 
+не&nbsp; представит</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">запрашиваемые материалы 
+или&nbsp; ходатайство&nbsp; о&nbsp; продлении&nbsp; установленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">срока, заявка признается 
+отозванной.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке,&nbsp; прошедшей предварительную экспертизу с&nbsp; 
+положительным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">результатом,&nbsp; при&nbsp; 
+наличии ходатайства о выдаче патента без проведения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизы заявки по 
+существу,&nbsp; выносится решение о выдаче&nbsp; патента&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патент выдается под 
+ответственность заявителя.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+результатам&nbsp;&nbsp; предварительной&nbsp;&nbsp;&nbsp; 
+экспертизы,&nbsp;&nbsp;&nbsp; при&nbsp;&nbsp;&nbsp; наличии</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ходатайства&nbsp; о&nbsp; 
+проведении&nbsp; экспертизы&nbsp; заявки&nbsp; по существу,&nbsp; либо 
+при</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отсутствии указанного 
+ходатайства или ходатайства о выдаче патента без</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведения&nbsp;&nbsp; 
+экспертизы&nbsp; заявки&nbsp; по&nbsp; существу&nbsp; заявителю&nbsp; 
+направляется</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уведомление.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Если в&nbsp; результате&nbsp; предварительной&nbsp; экспертизы 
+установлено,&nbsp; что</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявленное предложение 
+непатентоспособно,&nbsp; выносится решение об отказе</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в 
+выдаче патента.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Заявитель может&nbsp; подать&nbsp; в&nbsp; Апелляционный&nbsp; совет&nbsp; 
+возражение&nbsp;&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">решение&nbsp; 
+формальной&nbsp; или предварительной экспертизы об отказе в выдаче</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента в двухмесячный срок 
+с даты его&nbsp; получения.&nbsp; Возражение&nbsp; должно</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">быть&nbsp; рассмотрено 
+Апелляционным советом в двухмесячный срок с даты его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поступления.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+несогласии&nbsp; заявителя&nbsp; с&nbsp; решением&nbsp; Апелляционного&nbsp; 
+совета он</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">может в течение шести 
+месяцев с даты его получения обратиться с&nbsp; иском</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в 
+суд.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+истечении восемнадцати месяцев с даты подачи заявки или,&nbsp; если</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">испрошен приоритет,&nbsp; с 
+даты приоритета Кыргызпатент публикует сведения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">о 
+заявке в официальном бюллетене, кроме случаев, когда заявка отозвана</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">либо&nbsp; по&nbsp; 
+ней&nbsp; принято решение о выдаче патента или об отказе в выдаче</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента.&nbsp; 
+Перечень&nbsp;&nbsp; и&nbsp;&nbsp; полноту&nbsp;&nbsp; публикуемых&nbsp;&nbsp; 
+сведений&nbsp;&nbsp; определяет</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+ходатайству&nbsp;&nbsp; заявителя,&nbsp;&nbsp; при&nbsp;&nbsp; 
+условии&nbsp;&nbsp;&nbsp; уплаты&nbsp;&nbsp;&nbsp; пошлины,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент&nbsp; 
+может&nbsp; опубликовать сведения о заявке ранее восемнадцати</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">месяцев с &nbsp;даты&nbsp; 
+ее&nbsp; подачи&nbsp; или,&nbsp; если&nbsp; испрошен&nbsp; приоритет,&nbsp; 
+с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">приоритета.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+поступлении&nbsp; ходатайства&nbsp; о&nbsp; выдаче&nbsp; патента&nbsp; без&nbsp; 
+проведения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизы&nbsp;&nbsp; 
+заявки&nbsp;&nbsp; по&nbsp;&nbsp; существу&nbsp; после&nbsp; окончания&nbsp; 
+предварительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизы решение о выдаче 
+патента принимается в течение двух месяцев</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">с 
+даты поступления указанного ходатайства".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 16. 
+Статью 24 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 24. Экспертиза заявки на изобретение по существу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Кыргызпатент в&nbsp;&nbsp; течение&nbsp;&nbsp; восемнадцати&nbsp; месяцев&nbsp; 
+с&nbsp; даты&nbsp; подачи</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ходатайства&nbsp; 
+проводит&nbsp; экспертизу&nbsp; заявки&nbsp;&nbsp; по&nbsp;&nbsp; 
+существу.&nbsp;&nbsp; Заявитель</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уведомляется о поступивших 
+ходатайствах третьих лиц.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; экспертизы&nbsp;&nbsp; заявки&nbsp;&nbsp; по&nbsp;&nbsp; 
+существу&nbsp;&nbsp; проверяется</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствие&nbsp;&nbsp; 
+заявленного&nbsp; изобретения&nbsp; условиям&nbsp; 
+патентоспособности,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">определенным статьей 5 
+настоящего Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+период&nbsp; проведения&nbsp; экспертизы&nbsp; заявки по существу 
+Кыргызпатент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">вправе запросить у 
+заявителя&nbsp; дополнительные&nbsp; материалы,&nbsp; без&nbsp; 
+которых</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведение&nbsp; 
+экспертизы&nbsp; невозможно,&nbsp; в&nbsp; том&nbsp; числе&nbsp; измененную 
+формулу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Дополнительные материалы&nbsp;&nbsp; по&nbsp;&nbsp; запросу&nbsp; 
+экспертизы&nbsp; должны&nbsp; быть</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">представлены в 
+двухмесячный&nbsp; срок&nbsp; с&nbsp; даты&nbsp; получения&nbsp; запроса&nbsp; 
+и&nbsp; без</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изменения сущности 
+изобретения.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; На 
+дополнительные&nbsp; материалы&nbsp;&nbsp; в&nbsp;&nbsp; части,&nbsp;&nbsp; 
+изменяющей&nbsp;&nbsp; сущность</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp;&nbsp;&nbsp; 
+распространяется&nbsp;&nbsp;&nbsp; порядок,&nbsp;&nbsp; 
+установленный&nbsp;&nbsp; частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">одиннадцатой и двенадцатой 
+настоящей статьи.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Если в&nbsp; результате&nbsp; экспертизы&nbsp; заявки&nbsp; по&nbsp; существу 
+Кыргызпатент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">установит,&nbsp; что&nbsp; 
+заявленное&nbsp; предложение&nbsp; в&nbsp; испрашиваемом&nbsp; 
+заявителем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объеме&nbsp;&nbsp; 
+правовой&nbsp; охраны&nbsp; соответствует&nbsp; условиям&nbsp; 
+патентоспособности</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения,&nbsp; 
+выносится&nbsp; решение&nbsp;&nbsp; о&nbsp;&nbsp; выдаче&nbsp;&nbsp; 
+патента&nbsp;&nbsp; с&nbsp;&nbsp; формулой</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретения, предложенной и 
+согласованной с заявителем.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+установлении&nbsp;&nbsp; несоответствия&nbsp;&nbsp; заявленного&nbsp;&nbsp; 
+предложения&nbsp;&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">испрашиваемом&nbsp;&nbsp;&nbsp; 
+заявителем&nbsp;&nbsp;&nbsp; объеме&nbsp;&nbsp;&nbsp; правовой&nbsp;&nbsp;&nbsp; 
+охраны&nbsp;&nbsp; условиям</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патентоспособности 
+изобретения выносится решение об&nbsp; отказе&nbsp; в&nbsp; выдаче</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Заявитель может&nbsp; подать&nbsp; в&nbsp; Апелляционный&nbsp; совет&nbsp; 
+возражение&nbsp;&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">решение&nbsp;&nbsp; 
+экспертизы&nbsp;&nbsp; по&nbsp; существу&nbsp; об&nbsp; отказе&nbsp; в&nbsp; 
+выдаче&nbsp; патента&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">трехмесячный&nbsp; 
+срок&nbsp; с&nbsp; даты&nbsp; его&nbsp; получения.&nbsp; Возражение&nbsp; 
+должно&nbsp; быть</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрено&nbsp; 
+Апелляционным&nbsp; советом&nbsp; в четырехмесячный срок с даты его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поступления.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+несогласии&nbsp; заявителя&nbsp; с &nbsp;решением&nbsp; Апелляционного&nbsp; 
+совета он</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">может в шестимесячный срок с 
+даты его получения обратиться с&nbsp; иском&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">суд.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Заявитель имеет&nbsp; право&nbsp;&nbsp; ознакомиться&nbsp;&nbsp; со&nbsp;&nbsp; 
+всеми&nbsp;&nbsp; материалами,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанными&nbsp;&nbsp; 
+в&nbsp; решении&nbsp; экспертизы.&nbsp; Копии&nbsp; запрашиваемых&nbsp; 
+заявителем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патентных материалов 
+Кыргызпатент направляет в месячный&nbsp; срок&nbsp; с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">получения 
+запроса.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Сроки, предусмотренные статьями 23-1,&nbsp; 23-2 и настоящей&nbsp; 
+статьей,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">кроме&nbsp; сроков,&nbsp; 
+установленных&nbsp; частью пятнадцатой статьи 23-2 и частью</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">девятой&nbsp; 
+настоящей&nbsp; статьи,&nbsp;&nbsp; пропущенные&nbsp;&nbsp; 
+заявителем,&nbsp;&nbsp; могут&nbsp;&nbsp; быть</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">восстановлены&nbsp; 
+Кыргызпатентом&nbsp; при&nbsp; подтверждении наличия уважительных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">причин и уплате 
+пошлины.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Ходатайство о&nbsp; восстановлении&nbsp; срока может быть подано 
+заявителем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">не 
+позднее двенадцати месяцев со дня истечения пропущенного срока.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Заявитель и&nbsp; третьи&nbsp; лица&nbsp; вправе&nbsp; ходатайствовать&nbsp; 
+о&nbsp; проведении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">информационного поиска по 
+заявке на изобретение для определения уровня</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">техники,&nbsp;&nbsp;&nbsp; 
+в&nbsp;&nbsp;&nbsp; сравнении&nbsp;&nbsp;&nbsp; с&nbsp;&nbsp;&nbsp; 
+которым&nbsp;&nbsp;&nbsp; осуществляется&nbsp;&nbsp;&nbsp; оценка</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патентоспособности 
+&nbsp;изобретения.&nbsp; Порядок&nbsp; проведения&nbsp; 
+информационного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поиска и предоставления 
+сведений о нем определяется Кыргызпатентом".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 17. 
+Статьи 25-28 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 25. Экспертиза заявки на полезную модель</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке&nbsp; на&nbsp; полезную модель Кыргызпатент проводит формальную 
+и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предварительную 
+экспертизу.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; формальной&nbsp; экспертизы&nbsp; заявки на полезную 
+модель</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">применяются соответствующим 
+образом положения,&nbsp; содержащиеся в&nbsp; статье</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">23-1 настоящего 
+Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; предварительной&nbsp; экспертизы&nbsp; заявки&nbsp; на&nbsp; 
+полезную</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">модель&nbsp; применяются 
+соответствующим образом положения,&nbsp; содержащиеся в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">частях первой-десятой,&nbsp; 
+тринадцатой-пятнадцатой статьи 23-2 и в&nbsp; части</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">тринадцатой статьи 24 
+настоящего Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке&nbsp;&nbsp; на&nbsp;&nbsp; полезную&nbsp;&nbsp; модель,&nbsp;&nbsp; 
+прошедшей&nbsp;&nbsp; предварительную</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">экспертизу&nbsp; с&nbsp; 
+положительным&nbsp; результатом,&nbsp; выносится решение о выдаче</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента на полезную 
+модель,&nbsp; и&nbsp; патент&nbsp; выдается&nbsp; под&nbsp; 
+ответственность</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителя.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 26. Преобразование заявок</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; До 
+публикации&nbsp; сведений&nbsp; о&nbsp; заявке на изобретение,&nbsp; но не 
+позднее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты&nbsp; 
+получения&nbsp;&nbsp; решения&nbsp;&nbsp; о&nbsp;&nbsp; выдаче&nbsp;&nbsp; 
+патента,&nbsp;&nbsp; заявитель&nbsp;&nbsp; вправе</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">преобразовать&nbsp;&nbsp; 
+ее&nbsp;&nbsp; в&nbsp;&nbsp; заявку&nbsp;&nbsp; на&nbsp;&nbsp; полезную&nbsp; 
+модель&nbsp; путем&nbsp; подачи</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствующего 
+заявления.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Преобразование заявки&nbsp; на полезную модель в заявку на 
+изобретение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">по 
+ходатайству заявителя возможно до даты получения заявителем решения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">о 
+выдаче патента.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+указанных преобразованиях сохраняются приоритет и дата подачи</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">первой заявки.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 27. Экспертиза заявки на промышленный образец</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+заявке&nbsp;&nbsp; на&nbsp;&nbsp; промышленный&nbsp;&nbsp; образец&nbsp;&nbsp; 
+Кыргызпатент&nbsp;&nbsp; проводит</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">формальную и предварительную 
+экспертизу.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+ходатайству заявителя,&nbsp; которое может быть подано одновременно</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">с 
+подачей заявки или в&nbsp; течение&nbsp; двенадцати&nbsp; месяцев&nbsp; с&nbsp; 
+даты&nbsp; подачи,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрение&nbsp; 
+заявки&nbsp; может&nbsp; быть&nbsp; осуществлено&nbsp; с проведением или 
+без</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведения экспертизы заявки 
+по существу. Если ходатайство не подано в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанный срок, заявка 
+признается отозванной.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; формальной&nbsp; экспертизы&nbsp; заявки&nbsp; на&nbsp;&nbsp; 
+промышленный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">образец применяются 
+соответствующим образом положения,&nbsp; содержащиеся в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статье 23-1 настоящего 
+Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; предварительной&nbsp; экспертизы заявки Кыргызпатент 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">течение четырех месяцев 
+проверяет соблюдение установленных&nbsp; требований</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">к 
+содержанию документов заявки, соответствие заявленного промышленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">образца&nbsp; условиям&nbsp; 
+патентоспособности&nbsp; по&nbsp; представленным&nbsp;&nbsp; 
+заявителем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">материалам&nbsp; 
+заявки,&nbsp; фонду выданных охранных документов Кыргызпатента,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">неотозванным&nbsp; 
+заявкам&nbsp; с&nbsp; более&nbsp; ранним&nbsp;&nbsp; приоритетом,&nbsp;&nbsp; 
+устанавливает</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">приоритет&nbsp;&nbsp; 
+промышленного&nbsp;&nbsp; образца,&nbsp;&nbsp; проверяет&nbsp; 
+соответствие&nbsp; заявки</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">требованиям единства 
+промышленного образца.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp; предварительной экспертизы заявки на промышленный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">образец применяются 
+соответствующим образом положения,&nbsp; содержащиеся в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">частях&nbsp;&nbsp; 
+третьей-пятнадцатой,&nbsp; восемнадцатой&nbsp; статьи&nbsp; 23-2&nbsp; 
+настоящего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; По 
+ходатайству&nbsp; заявителя&nbsp; или третьих лиц Кыргызпатент в 
+течение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">двенадцати месяцев&nbsp; 
+с&nbsp; даты&nbsp; подачи&nbsp; ходатайства&nbsp; проводит&nbsp; 
+экспертизу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки по существу.&nbsp; 
+Заявитель уведомляется о поступивших ходатайствах</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">третьих лиц.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+проведении&nbsp;&nbsp; экспертизы&nbsp;&nbsp; заявки&nbsp;&nbsp; по&nbsp;&nbsp; 
+существу&nbsp; применяются</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствующим&nbsp;&nbsp; 
+образом&nbsp;&nbsp;&nbsp; положения,&nbsp;&nbsp;&nbsp; 
+содержащиеся&nbsp;&nbsp;&nbsp; в&nbsp;&nbsp;&nbsp; частях</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">второй-тринадцатой статьи 24 
+настоящего Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 28. Регистрация&nbsp;&nbsp; объектов&nbsp; промышленной&nbsp; 
+собственности,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+публикация сведений о выдаче патента и выдача патента</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Кыргызпатент после принятия решения о выдаче патента, при условии</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уплаты&nbsp;&nbsp; 
+пошлины&nbsp;&nbsp; за&nbsp;&nbsp; регистрацию&nbsp;&nbsp; и&nbsp;&nbsp; 
+выдачу&nbsp;&nbsp; патента,&nbsp; вносит&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Государственный&nbsp;&nbsp;&nbsp; 
+реестр&nbsp;&nbsp;&nbsp; изобретений&nbsp;&nbsp;&nbsp; 
+Кыргызской&nbsp;&nbsp;&nbsp;&nbsp; Республики,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Государственный&nbsp; 
+реестр&nbsp; полезных&nbsp; моделей&nbsp; Кыргызской&nbsp; Республики 
+или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Государственный реестр&nbsp; 
+промышленных&nbsp; образцов&nbsp; Кыргызской&nbsp; Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответственно 
+изобретение,&nbsp; полезную модель или промышленный образец,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">публикует сведения о выдаче 
+патента в официальном бюллетене&nbsp; и&nbsp; выдает</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патент лицу, на имя которого 
+он испрашивался.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+наличии нескольких лиц,&nbsp; на имя которых испрашивается патент,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">им 
+выдается один патент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Документ, подтверждающий уплату пошлины за регистрацию&nbsp; и&nbsp; 
+выдачу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента,&nbsp; 
+представляется&nbsp; в&nbsp; течение&nbsp; двух&nbsp; месяцев&nbsp; с&nbsp; даты 
+получения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителем решения о выдаче 
+патента или в течение трех месяцев со&nbsp; дня</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">истечения&nbsp;&nbsp; 
+указанного&nbsp;&nbsp; двухмесячного&nbsp;&nbsp; срока&nbsp;&nbsp; 
+при&nbsp;&nbsp; условии&nbsp; уплаты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дополнительной 
+пошлины.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; При 
+непредставлении&nbsp;&nbsp;&nbsp; в&nbsp;&nbsp;&nbsp; 
+установленном&nbsp;&nbsp;&nbsp; порядке&nbsp;&nbsp; документа,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подтверждающего&nbsp; 
+уплату&nbsp; пошлины&nbsp; за&nbsp; регистрацию&nbsp; и&nbsp; выдачу&nbsp; 
+патента,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">регистрация&nbsp; 
+объекта&nbsp; промышленной собственности,&nbsp; публикация и выдача</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента не производятся, 
+соответствующая заявка считается отозванной.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Перечень и полноту сведений, публикуемых в официальном бюллетене,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">определяет 
+Кыргызпатент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+После публикации&nbsp; сведений&nbsp; о&nbsp; выдаче&nbsp; патента&nbsp; любое 
+лицо вправе</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ознакомиться с материалами 
+заявки.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Форму патента,&nbsp;&nbsp; а&nbsp;&nbsp; также&nbsp;&nbsp; состав&nbsp;&nbsp; 
+указанных&nbsp; в&nbsp; нем&nbsp; сведений</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">устанавливает 
+Кыргызпатент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+случае обнаружения очевидных и технических ошибок по требованию</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельца патента и&nbsp; 
+автора&nbsp; Кыргызпатент&nbsp; вносит&nbsp; в&nbsp; выданный&nbsp; 
+патент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствующие исправления 
+без оплаты пошлины".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 18. 
+Статьи 29-30 исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 19. 
+Статью 32 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 32. Признание патента недействительным и прекращение его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+действия</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Патент признается&nbsp; недействительным&nbsp; полностью&nbsp; или&nbsp; 
+частично&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">основании решения 
+Апелляционного совета или решения суда,&nbsp; вступившего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в 
+законную силу.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Действие патента прекращается:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+по истечении срока его действия, установленного в соответствии</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">с 
+настоящим Законом;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+при&nbsp; неуплате&nbsp; в&nbsp; установленный&nbsp; срок&nbsp; пошлины&nbsp; за 
+поддержание</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патента в силе - с 
+даты&nbsp; истечения&nbsp; установленного&nbsp; срока&nbsp; для&nbsp; 
+уплаты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">пошлины за поддержание 
+патента в силе;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3) 
+на&nbsp; основании&nbsp; заявления,&nbsp; поданного&nbsp; владельцем&nbsp;&nbsp; 
+патента&nbsp;&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент,&nbsp; 
+если&nbsp; отказ&nbsp; не&nbsp; нарушает интересы третьих лиц - с 
+даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">публикации в официальном 
+бюллетене Кыргызпатента сведений о&nbsp; досрочном</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">прекращении действия патента 
+в связи с заявлением владельца патента.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Кыргызпатент публикует&nbsp; в&nbsp; официальном&nbsp;&nbsp; 
+бюллетене&nbsp;&nbsp; сведения&nbsp;&nbsp; о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патентах,&nbsp; 
+признанных&nbsp; недействительными&nbsp; полностью или частично,&nbsp; и 
+о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">патентах, действие которых 
+прекращено".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 20. 
+Закон дополнить статьей 41 следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 41. Переходные положения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; В 
+соответствии с&nbsp; внесенными&nbsp; в&nbsp; настоящий&nbsp; Закон&nbsp; 
+изменениями&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дополнениями,&nbsp; 
+связанными&nbsp; с&nbsp; переходом&nbsp; к единому охранному 
+документу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(патенту), 
+установить:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+по&nbsp; заявкам&nbsp; на&nbsp; выдачу&nbsp; предварительного&nbsp; 
+патента&nbsp; Кыргызской</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Республики&nbsp; на&nbsp; 
+изобретение&nbsp; или&nbsp; промышленный&nbsp; образец,&nbsp; 
+принятых&nbsp;&nbsp; к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">делопроизводству&nbsp; 
+до&nbsp; вступления&nbsp; в&nbsp; силу&nbsp; закона,&nbsp; 
+предусматривающего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">переход к единому&nbsp; 
+охранному&nbsp; документу&nbsp; (патенту),&nbsp; заявитель&nbsp; 
+вправе</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подать&nbsp;&nbsp; 
+ходатайство&nbsp;&nbsp; о&nbsp;&nbsp; выдаче&nbsp; патента&nbsp; 
+Кыргызской&nbsp; Республики&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретение или&nbsp; 
+промышленный&nbsp; образец&nbsp; с&nbsp; проведением&nbsp; экспертизы&nbsp; 
+по</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">существу&nbsp; или&nbsp; 
+на&nbsp; выдачу&nbsp; патента&nbsp; под&nbsp; ответственность заявителя 
+при</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">условии соблюдения 
+требований&nbsp; об&nbsp; оплате&nbsp; соответствующих&nbsp; пошлин.&nbsp; 
+В</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">случае непринятия мер 
+заявителем заявка будет считаться отозванной;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+по действующим предварительным патентам Кыргызской&nbsp; Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">на&nbsp; изобретение&nbsp; 
+или промышленный образец,&nbsp; по которым до вступления в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">силу закона,&nbsp; 
+предусматривающего переход к единому охранному документу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(патенту),&nbsp; не&nbsp; 
+истек&nbsp; 5-летний&nbsp; срок&nbsp; с даты подачи заявки,&nbsp; 
+владелец</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предварительного&nbsp; 
+патента&nbsp; вправе&nbsp; ходатайствовать &nbsp;о&nbsp; выдаче&nbsp; 
+патента</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской&nbsp; 
+Республики&nbsp; на&nbsp; изобретение&nbsp; или&nbsp; промышленный&nbsp; 
+образец&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">проведением&nbsp; 
+экспертизы&nbsp; по&nbsp; существу.&nbsp; В&nbsp; случае&nbsp; 
+отсутствия&nbsp;&nbsp; такого</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ходатайства&nbsp;&nbsp;&nbsp;&nbsp; 
+предварительный&nbsp;&nbsp;&nbsp;&nbsp; патент&nbsp;&nbsp;&nbsp; 
+Кыргызской&nbsp;&nbsp;&nbsp; Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">переоформляется на патент 
+Кыргызской&nbsp; Республики&nbsp; под&nbsp; ответственность</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителя на оставшийся 
+срок;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3) 
+действующие предварительные патенты Кыргызской&nbsp; Республики&nbsp; 
+на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изобретение или промышленный 
+образец,&nbsp; по которым до вступления в силу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">закона,&nbsp; 
+предусматривающего&nbsp; переход&nbsp; к&nbsp; единому&nbsp; охранному&nbsp; 
+документу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(патенту),&nbsp; истек 
+5-летний срок с даты подачи заявки,&nbsp; переоформляются</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">на 
+патенты Кыргызской&nbsp; Республики&nbsp; под&nbsp; ответственность&nbsp; 
+заявителя&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">оставшийся срок;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 4) 
+по заявкам на выдачу свидетельства&nbsp; Кыргызской&nbsp; Республики&nbsp; 
+на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полезную&nbsp; модель,&nbsp; 
+принятым&nbsp; к&nbsp; делопроизводству&nbsp; до вступления в силу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">закона,&nbsp; 
+предусматривающего&nbsp; переход&nbsp; к&nbsp; единому&nbsp; охранному&nbsp; 
+документу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(патенту), выносится решение 
+о выдаче патента Кыргызской Республики на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полезную&nbsp; модель&nbsp; 
+при&nbsp; условии&nbsp;&nbsp; соблюдения&nbsp;&nbsp; требований&nbsp;&nbsp; 
+об&nbsp;&nbsp; оплате</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствующих 
+пошлин;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 5) 
+действующие свидетельства Кыргызской&nbsp; Республики&nbsp; на&nbsp; 
+полезные</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">модели&nbsp; 
+переоформляются&nbsp; на&nbsp; патент&nbsp; Кыргызской Республики на 
+полезную</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">модель.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Сроки и&nbsp; порядок&nbsp; проведения&nbsp; вышеуказанных процедур 
+определяются</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатентом".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 21. 
+Статью 41 считать статьей 42.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 2.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в&nbsp; <a href="/act/view/ru-ru/18?cl=ru-ru">Закон</a> Кыргызской Республики "О товарных 
+знаках,&nbsp; знаках</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">обслуживания и наименованиях 
+мест&nbsp; происхождения&nbsp; товаров"&nbsp; (Ведомости</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Жогорку Кенеша Кыргызской 
+Республики,&nbsp; 1998 г.,&nbsp; N3,&nbsp; ст.68) следующие</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изменения и 
+дополнения:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1. 
+В статье 1:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+название статьи изложить в следующей&nbsp; редакции:&nbsp; 
+"Государственный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">орган в области 
+интеллектуальной собственности";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части первой слова: "Государственное агентство интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности&nbsp;&nbsp; 
+при&nbsp;&nbsp; Правительстве&nbsp; Кыргызской&nbsp; Республики"&nbsp; 
+заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словами:&nbsp;&nbsp; 
+"Уполномоченный&nbsp;&nbsp;&nbsp; государственный&nbsp;&nbsp;&nbsp; 
+орган&nbsp;&nbsp;&nbsp; в&nbsp;&nbsp;&nbsp; области</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интеллектуальной 
+собственности".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2. 
+В статье 2:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть третью изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "В 
+качестве&nbsp;&nbsp; товарных&nbsp;&nbsp; знаков&nbsp;&nbsp; могут&nbsp;&nbsp; 
+быть&nbsp;&nbsp; зарегистрированы</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словесные,&nbsp; 
+изобразительные,&nbsp; объемные&nbsp; и&nbsp; другие&nbsp; обозначения&nbsp; или 
+их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">комбинации";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть шестую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Настоящий Закон&nbsp; не&nbsp; применяется&nbsp; к&nbsp; визуально&nbsp;&nbsp; 
+не&nbsp;&nbsp; различимым</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">обозначениям, а также к 
+звуковым и обонятельным знакам".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3. 
+Статью&nbsp; 3&nbsp; дополнить&nbsp; частями&nbsp; пятой&nbsp;&nbsp; 
+и&nbsp;&nbsp; шестой&nbsp;&nbsp; следующего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Исключительное право&nbsp; на&nbsp; товарный&nbsp;&nbsp; знак&nbsp;&nbsp; 
+возникает&nbsp;&nbsp; с&nbsp;&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">публикации&nbsp; 
+сведений&nbsp; о&nbsp; регистрации товарного знака в Государственном</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">реестре товарных знаков 
+Кыргызской&nbsp; Республики&nbsp; (далее&nbsp; -&nbsp; Реестр),&nbsp; 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">официальном бюллетене, 
+издаваемом Кыргызпатентом.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Несанкционированное использование обозначения, тождественного или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">сходного&nbsp; до&nbsp; 
+степени&nbsp; смешения&nbsp; с товарным знаком этого владельца,&nbsp; 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">качестве адреса в сети&nbsp; 
+Интернет&nbsp; также&nbsp; признается&nbsp; нарушением&nbsp; права</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельца&nbsp; товарного 
+знака.&nbsp; Порядок использования товарного знака или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">обозначения,&nbsp; сходного 
+с ним до степени смешения,&nbsp; в качестве адреса в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">сети Интернет 
+устанавливается Правительством Кыргызской Республики".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 4. 
+В статье 4:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части первой:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 2 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "2) 
+представляющих собой государственные гербы,&nbsp; флаги и эмблемы,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">официальные&nbsp; 
+названия&nbsp; государств,&nbsp; эмблемы,&nbsp; сокращенные&nbsp; или&nbsp; 
+полные</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименования&nbsp;&nbsp; 
+международных&nbsp;&nbsp; организаций,&nbsp; официальные&nbsp; 
+контрольные,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">гарантийные и пробирные 
+клейма, печати, награды и другие знаки отличия</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">или&nbsp; сходные с ними до 
+степени смешения.&nbsp; Такие обозначения могут быть</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">включены как 
+неохраняемые&nbsp; элементы&nbsp; в&nbsp; товарный&nbsp; знак,&nbsp; если&nbsp; 
+на&nbsp; это</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">имеется&nbsp;&nbsp; 
+согласие&nbsp;&nbsp; соответствующего&nbsp;&nbsp; компетентного&nbsp; 
+органа&nbsp; или&nbsp; их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельца;";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 3 исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 6 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "6) 
+указывающих&nbsp;&nbsp; на&nbsp;&nbsp; вид,&nbsp;&nbsp; качество,&nbsp;&nbsp; 
+количество,&nbsp;&nbsp; свойство,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">назначение,&nbsp; 
+ценность&nbsp; товаров,&nbsp; а&nbsp; также&nbsp; на&nbsp;&nbsp; 
+время&nbsp;&nbsp; и&nbsp;&nbsp; место&nbsp;&nbsp; их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения, производства 
+или сбыта";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункты 4-6 считать соответственно пунктами 3-5;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части второй слова:&nbsp; "в пунктах 2,&nbsp; 4, 5 и 6" заменить 
+словами:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"в 
+пунктах 2, 3, 4 и 5";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части третьей:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть дополнить пунктом 2 следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "2) 
+представляющих&nbsp;&nbsp; собой&nbsp;&nbsp; или&nbsp; содержащих&nbsp; 
+указание&nbsp; на&nbsp; место</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения вин или 
+крепких спиртных&nbsp; напитков,&nbsp; охраняемых&nbsp; в&nbsp; силу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">международных договоров 
+Кыргызской Республики,&nbsp; если такие обозначения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предназначены для вин или 
+крепких спиртных напитков,&nbsp; не&nbsp; происходящих</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">из&nbsp; указанных&nbsp; 
+мест,&nbsp; а&nbsp; также формально указывающих на истинное место</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">производства товара,&nbsp; 
+но дающих ошибочное&nbsp; представление&nbsp; о&nbsp; том,&nbsp; что</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товар происходит с другой 
+территории";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 2 считать пунктом 3.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 5. 
+Статью 5 изложить в следующей редакции;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 5. Иные основания для отказа в регистрации</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; Не 
+могут быть зарегистрированы в&nbsp; качестве&nbsp; товарных&nbsp; знаков&nbsp; 
+для</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">однородных&nbsp; товаров 
+обозначения,&nbsp; тождественные или сходные до степени</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">их 
+смешения:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+с товарными знаками, ранее зарегистрированными или заявленными</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">на 
+регистрацию в Кыргызской Республике на имя другого лица в отношении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">однородных товаров, 
+обладающих более ранним приоритетом;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+с зарегистрированными или&nbsp; представленными&nbsp; на&nbsp; регистрацию&nbsp; 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской&nbsp;&nbsp; 
+Республике&nbsp;&nbsp; фирменными&nbsp;&nbsp; наименованиями&nbsp; -&nbsp; 
+в&nbsp; отношении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">тождественных или сходных 
+видов деятельности либо товаров или услуг;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3) 
+с&nbsp;&nbsp; товарными&nbsp;&nbsp; знаками&nbsp;&nbsp; других&nbsp;&nbsp; 
+лиц,&nbsp;&nbsp; охраняемыми&nbsp; в&nbsp; силу</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">международных договоров 
+Кыргызской Республики.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Регистрация обозначения,&nbsp; сходного до степени смешения с 
+товарным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знаком,&nbsp; указанным в 
+пунктах 1, 2 и 3 части первой настоящей статьи, в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отношении&nbsp; 
+однородных&nbsp; товаров&nbsp; допускается&nbsp; при условии 
+представления</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">согласия&nbsp; 
+владельца&nbsp; такого&nbsp; товарного&nbsp; знака&nbsp; на&nbsp; 
+регистрацию&nbsp;&nbsp; этого</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">обозначения.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; Не 
+могут быть&nbsp; зарегистрированы&nbsp; в&nbsp; качестве&nbsp; товарных&nbsp; 
+знаков&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отношении&nbsp; любых&nbsp; 
+товаров&nbsp; обозначения,&nbsp; тождественные&nbsp; или сходные до</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">степени их 
+смешения:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+с&nbsp; признанными в установленном порядке в Кыргызской Республике</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">общеизвестными товарными 
+знаками.&nbsp; Критерии общеизвестности&nbsp; товарного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знака&nbsp; в&nbsp; 
+Кыргызской&nbsp; Республике&nbsp; и&nbsp; порядок признания 
+общеизвестности</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">устанавливаются 
+Правительством Кыргызской Республики;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+с&nbsp; наименованиями&nbsp; мест&nbsp; происхождения товаров,&nbsp; охраняемыми 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствии с настоящим 
+Законом,&nbsp; кроме случаев,&nbsp; когда они&nbsp; включены</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">как 
+неохраняемый элемент в товарный знак,&nbsp; регистрируемый на имя 
+лица,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">имеющего право пользования 
+таким наименованием.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; Не 
+регистрируются&nbsp;&nbsp; в&nbsp;&nbsp; качестве&nbsp;&nbsp; товарных&nbsp; 
+знаков&nbsp; обозначения,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">воспроизводящие:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+известные&nbsp; на&nbsp; территории&nbsp; Кыргызской&nbsp; Республики&nbsp; в 
+отношении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">однородных&nbsp;&nbsp; 
+товаров&nbsp;&nbsp; фирменные&nbsp;&nbsp; наименования&nbsp;&nbsp; 
+(или&nbsp;&nbsp; их&nbsp;&nbsp;&nbsp; часть),</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">принадлежащие&nbsp; 
+другим&nbsp; лицам,&nbsp; получившим право на эти наименования до</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты&nbsp; приоритета&nbsp; 
+заявки&nbsp; на&nbsp; товарный&nbsp; знак&nbsp; в&nbsp; отношении&nbsp; 
+однородных</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товаров;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+наименования известных в&nbsp; Кыргызской&nbsp; Республике&nbsp; 
+произведений</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">науки,&nbsp;&nbsp; 
+литературы&nbsp;&nbsp; и&nbsp;&nbsp; искусства,&nbsp; персонажи&nbsp; из&nbsp; 
+них&nbsp; или&nbsp; цитаты,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">произведения&nbsp; 
+искусства&nbsp; или&nbsp; их&nbsp; фрагменты&nbsp; без&nbsp; согласия&nbsp; 
+обладателя</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">авторского права или его 
+правопреемника;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3) 
+фамилии,&nbsp; имена,&nbsp; псевдонимы и производные от них,&nbsp; портреты 
+и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">факсимиле&nbsp; известных 
+лиц без согласия таких лиц,&nbsp; их наследников,&nbsp; а в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">случае,&nbsp; если эти 
+обозначения являются достоянием истории &nbsp;и&nbsp; культуры</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской&nbsp; 
+Республики,&nbsp; -&nbsp; без&nbsp; разрешения&nbsp; Правительства&nbsp; 
+Кыргызской</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Республики;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 4) 
+промышленные образцы, права на которые в Кыргызской Республике</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">принадлежат другим 
+лицам,&nbsp; если промышленный&nbsp; образец&nbsp; обладает&nbsp; 
+более</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ранним&nbsp; 
+приоритетом&nbsp; по сравнению с заявленным на регистрацию товарным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знаком".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 6. 
+В статье 6:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+пункте 2 части седьмой слова: "и его описание" исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части девятой:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+дополнить часть пунктом 2 следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "2) 
+описание заявляемого обозначения;";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 2 считать пунктом 3;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+пункт 3 исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть десятую после слов:&nbsp; "настоящей статьи" дополнить&nbsp; 
+словами:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">", 
+а если указанные документы представлены не одновременно, то по дате</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поступления последнего из 
+представленных документов";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть двенадцатую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Требования к&nbsp; вышеназванным&nbsp; документам&nbsp; заявки&nbsp; и&nbsp; 
+порядок&nbsp;&nbsp; их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">представления 
+устанавливаются Кыргызпатентом".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 7. 
+В статье 7:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую&nbsp; после слов "требованиям" дополнить словами:&nbsp; 
+"части</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">седьмой";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; второй&nbsp; слова:&nbsp; "если&nbsp; в Кыргызпатент заявка 
+поступила в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">течение шести месяцев с 
+указанной даты" заменить словами: "если подача</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки в Кыргызпатент 
+осуществлена в течение шести месяцев с указанной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты. В отсчет этого срока 
+день подачи первой заявки не включается";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; третьей&nbsp; слова:&nbsp; "если в Кыргызпатент заявка на 
+товарный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знак поступила в течение 
+шести&nbsp; месяцев&nbsp; с&nbsp; указанной&nbsp; даты"&nbsp; 
+заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словами:&nbsp;&nbsp; 
+"если&nbsp;&nbsp; подача&nbsp; заявки&nbsp; на&nbsp; товарный&nbsp; знак&nbsp; 
+в&nbsp; Кыргызпатент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">осуществлена в течение шести 
+месяцев с указанной даты";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; четвертой слова:&nbsp; "с даты поступления" заменить 
+словами:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"с 
+даты подачи".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 8. 
+В статье 8:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "В 
+период&nbsp; проведения&nbsp; экспертизы&nbsp; до&nbsp; принятия&nbsp; по&nbsp; 
+ней&nbsp; решения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявитель вправе дополнять, 
+уточнять или исправлять материалы заявки";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части четвертой слова: "Государственном реестре товарных знаков</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской Республики" 
+заменить словом "Реестре".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 9. 
+В статье 9:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp; 
+&nbsp;&nbsp;часть первую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "В 
+течение&nbsp;&nbsp; одного&nbsp;&nbsp; месяца&nbsp; с&nbsp; даты&nbsp; 
+подачи&nbsp; заявки&nbsp; проводится</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предварительная 
+экспертиза,&nbsp; в&nbsp; ходе&nbsp; которой&nbsp; проверяется&nbsp; 
+содержание</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки&nbsp; на&nbsp; 
+соответствие&nbsp; требованиям,&nbsp; установленным&nbsp; частью&nbsp; 
+третьей</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статьи 2 и статьей 6 
+настоящего Закона";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть пятую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "По 
+результатам&nbsp; предварительной&nbsp; экспертизы заявка принимается 
+к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению&nbsp; 
+либо&nbsp; выносится&nbsp; решение&nbsp; об&nbsp; отказе&nbsp; в&nbsp; принятии 
+&nbsp;ее&nbsp; к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части третью-пятую&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+считать&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+соответственно&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">второй-четвертой;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частями пятой и шестой следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "Об 
+отказе&nbsp; в&nbsp; регистрации товарного знака заявителю 
+направляется</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уведомление.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; О 
+положительном&nbsp; результате&nbsp; предварительной&nbsp; экспертизы и о 
+дате</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подачи заявки,&nbsp; 
+установленной в соответствии с частью седьмой статьи 6</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">настоящего Закона,&nbsp; 
+заявителю направляется решение о принятии заявки к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 10. 
+В статье 10:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Экспертиза заявленного&nbsp;&nbsp; обозначения&nbsp; проводится&nbsp; по&nbsp; 
+завершении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предварительной экспертизы в 
+течение двенадцати месяцев с даты&nbsp; подачи</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявки";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частью второй следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "В 
+ходе&nbsp;&nbsp;&nbsp; экспертизы&nbsp;&nbsp;&nbsp; проверяется&nbsp;&nbsp; 
+соответствие&nbsp;&nbsp; заявленного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">обозначения&nbsp; 
+требованиям,&nbsp; установленным&nbsp; частью&nbsp; первой&nbsp;&nbsp; 
+статьи&nbsp;&nbsp; 2,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статьями&nbsp;&nbsp; 4&nbsp; 
+и&nbsp; 5&nbsp; настоящего&nbsp; Закона,&nbsp; и&nbsp; устанавливается&nbsp; 
+приоритет</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарного знака в 
+соответствии со статьей 7 настоящего Закона";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части второй слово "принимается" заменить словом "выносится";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+частях&nbsp; четвертой,&nbsp; седьмой&nbsp; слова:&nbsp; "шесть&nbsp; 
+месяцев"&nbsp; заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словами: "двенадцать 
+месяцев";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части вторую-восьмую&nbsp;&nbsp;&nbsp;&nbsp; 
+считать&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; соответственно&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">третьей-девятой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 11. 
+В части пятой статьи 11 слова "третьей" и&nbsp; "четвертой&nbsp; 
+статьи</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">10" 
+заменить соответственно словами "второй" и "пятой статьи 10".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 12. 
+В части первой&nbsp; статьи&nbsp; 12&nbsp; слова:&nbsp; "Государственном&nbsp; 
+реестре</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарных&nbsp; знаков&nbsp; 
+Кыргызской&nbsp; Республики&nbsp; (далее&nbsp; -&nbsp; Реестр)" 
+заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словом "Реестре".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 13. 
+В статье 15:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+название статьи изложить в&nbsp; следующей&nbsp; редакции:&nbsp; "Срок&nbsp; 
+действия</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">регистрации товарного 
+знака";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть первую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Регистрация товарного&nbsp; знака&nbsp; действует до истечения десяти 
+лет,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">считая с даты подачи заявки 
+в Кыргызпатент";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части вторую&nbsp;&nbsp; и&nbsp; третью&nbsp; после&nbsp; слов:&nbsp; 
+"срок&nbsp; действия",&nbsp; "срока</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">действия" дополнить словом 
+"регистрации".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 14. 
+В статье 16:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части первой слова:&nbsp; "о внесении изменений -" заменить словами:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"об 
+изменении";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частью четвертой следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Исправления очевидных&nbsp; и&nbsp; технических&nbsp; ошибок,&nbsp; допущенных 
+не по</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">вине заявителя,&nbsp; 
+вносятся Кыргызпатентом в Реестр и&nbsp; свидетельство&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарный знак без уплаты 
+пошлины".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 15. 
+Часть вторую статьи 18 исключить.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 16. 
+Статью 19 дополнить частью второй следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "К 
+заявке на регистрацию коллективного&nbsp; знака&nbsp; прилагается&nbsp; 
+устав</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">коллективного&nbsp;&nbsp; 
+знака,&nbsp;&nbsp; который&nbsp; содержит&nbsp; сведения&nbsp; о&nbsp; 
+наименовании,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">перечень юридических 
+лиц,&nbsp; имеющих право пользования этим знаком, цель</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">его&nbsp; регистрации,&nbsp; 
+перечень&nbsp; и&nbsp; единые&nbsp; качественные&nbsp; или&nbsp; иные&nbsp; 
+общие</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">характеристики&nbsp; 
+товаров,&nbsp; которые&nbsp; будут&nbsp;&nbsp; обозначаться&nbsp;&nbsp; 
+коллективным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знаком,&nbsp;&nbsp; 
+условия&nbsp;&nbsp; его&nbsp;&nbsp; использования,&nbsp;&nbsp; 
+порядок&nbsp;&nbsp; контроля&nbsp; за&nbsp; его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">использованием,&nbsp; 
+ответственность&nbsp; за&nbsp; нарушение&nbsp; устава&nbsp; 
+коллективного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знака";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую считать частью третьей.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 17. 
+В статье 20:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частью третьей следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Использованием может&nbsp; быть&nbsp; признано&nbsp; также применение 
+товарного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знака в качестве адреса в 
+сети Интернет";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть четвертую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Действие регистрации&nbsp; товарного&nbsp; знака&nbsp; может&nbsp; 
+быть&nbsp;&nbsp; прекращено</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">досрочно в отношении всех 
+или части товаров в связи с неиспользованием</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарного знака непрерывно в 
+течение любых трех лет подряд&nbsp; после&nbsp; его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">регистрации&nbsp; на 
+основании решения суда,&nbsp; принятого по заявлению любого</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">лица, поданного в период 
+такого непрерывного неиспользования";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части третью-пятую&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+считать&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+соответственно&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">четвертой-шестой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 18. 
+Статью 21 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 21. Предупредительная маркировка</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Владелец товарного&nbsp; знака&nbsp; может&nbsp; проставлять&nbsp; рядом&nbsp; 
+с&nbsp; товарным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знаком&nbsp; 
+предупредительную&nbsp; маркировку в виде латинской буквы R или R в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">окружности или&nbsp; 
+словесного&nbsp; обозначения&nbsp; "зарегистрированный&nbsp; товарный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знак",&nbsp;&nbsp; 
+указывающую&nbsp; на&nbsp; то,&nbsp; что&nbsp; применяемое&nbsp; 
+обозначение&nbsp; является</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарным знаком, 
+зарегистрированным в Кыргызской Республике".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 19. 
+Статью 25 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 25. Признание&nbsp;&nbsp;&nbsp;&nbsp; 
+регистрации&nbsp;&nbsp;&nbsp;&nbsp; товарного&nbsp;&nbsp;&nbsp;&nbsp; 
+знака</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+недействительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Регистрация товарного&nbsp; знака может быть признана 
+недействительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полностью или частично в 
+течение всего срока&nbsp; ее&nbsp; действия,&nbsp; если&nbsp; она</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">была&nbsp; произведена&nbsp; 
+в&nbsp; нарушение&nbsp; требований,&nbsp; установленных&nbsp; статьей 
+4</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">настоящего 
+Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Регистрация товарного&nbsp; знака может быть признана 
+недействительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полностью или частично в 
+течение пяти лет с даты публикации сведений о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">регистрации&nbsp; 
+товарного&nbsp; знака&nbsp; в&nbsp; официальном бюллетене по 
+основаниям,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">установленным&nbsp; 
+статьей&nbsp; 5&nbsp; настоящего&nbsp; Закона.&nbsp; Настоящая&nbsp;&nbsp; 
+норма&nbsp;&nbsp; не</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">распространяется 
+&nbsp;&nbsp;&nbsp;на&nbsp;&nbsp;&nbsp; товарные&nbsp;&nbsp; знаки,&nbsp;&nbsp; 
+зарегистрированные&nbsp;&nbsp; или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">используемые 
+недобросовестно.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Регистрация товарного&nbsp; знака может быть признана 
+недействительной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полностью в течение всего 
+срока ее действия, если она была произведена</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">в&nbsp;&nbsp; 
+нарушение&nbsp;&nbsp; требований,&nbsp;&nbsp; установленных&nbsp; частью&nbsp; 
+второй&nbsp; статьи&nbsp; 3</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">настоящего 
+Закона.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Любое лицо может подать в сроки,&nbsp; предусмотренные частями 
+первой,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">второй и&nbsp; третьей&nbsp; 
+настоящей&nbsp; статьи,&nbsp; возражение&nbsp; против&nbsp; 
+регистрации</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарного&nbsp; знака в 
+Апелляционный совет.&nbsp; Возражение против регистрации</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарного знака должно быть 
+рассмотрено в течение&nbsp; четырех&nbsp; месяцев&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">даты его 
+поступления.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Решение Апелляционного&nbsp; совета&nbsp; может&nbsp; быть&nbsp; 
+обжаловано&nbsp;&nbsp; в&nbsp;&nbsp; суд</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителем в течение шести 
+месяцев с даты его получения".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp; &nbsp;20. 
+Статью 26 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 26. Прекращение действия регистрации товарного знака</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Действие регистрации товарного знака прекращается:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 1) 
+в связи&nbsp; с&nbsp; истечением&nbsp; срока&nbsp; ее&nbsp; действия,&nbsp; 
+предусмотренного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статьей 15 настоящего 
+Закона;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 2) 
+на основании решения суда,&nbsp; вступившего&nbsp; в&nbsp; законную&nbsp; 
+силу,&nbsp; о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">досрочном&nbsp;&nbsp; 
+прекращении&nbsp;&nbsp; ее&nbsp;&nbsp; действия&nbsp;&nbsp; по&nbsp;&nbsp; 
+причине&nbsp;&nbsp; использования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">коллективного знака на 
+товарах,&nbsp; не обладающих&nbsp; едиными&nbsp; качественными</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">или&nbsp; иными&nbsp; 
+общими&nbsp; характеристиками,&nbsp; в соответствии с частью третьей</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статьи 19 настоящего 
+Закона;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 3) 
+на&nbsp; основании&nbsp; решения&nbsp; суда,&nbsp; вступившего в законную 
+силу,&nbsp; о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">досрочном прекращении ее 
+действия по причине неиспользования товарного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">знака в соответствии с 
+частью пятой статьи 20 настоящего Закона;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 4) 
+на основании решения Кыргызпатента о досрочном прекращении&nbsp; ее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">действия,&nbsp; а&nbsp; 
+в&nbsp; случае,&nbsp; если оно было обжаловано в суде - по решению</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">суда, при ликвидации 
+юридического лица - владельца товарного знака или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">прекращении&nbsp;&nbsp; 
+предпринимательской&nbsp;&nbsp; деятельности&nbsp; физического&nbsp; лица&nbsp; 
+-</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">владельца товарного знака 
+без образования правопреемника;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 5) 
+на&nbsp; основании&nbsp; решения&nbsp; суда,&nbsp; вступившего в законную 
+силу,&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">случае превращения товарного 
+знака в обозначение, вошедшее во всеобщее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">употребление как обозначение 
+товаров определенного вида;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 6) 
+в случае отказа от нее владельца товарного знака на&nbsp; основании</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">его 
+заявления, поданного в Кыргызпатент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Товарный знак,&nbsp; прекративший&nbsp; свое&nbsp; действие&nbsp; в&nbsp; 
+соответствии&nbsp;&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">пунктами 1,&nbsp; 4 и 6 
+настоящей статьи,&nbsp; не может быть зарегистрирован на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">имя 
+нового лица в течение трех лет с даты прекращения действия".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 21. 
+В статье 29:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+абзаце четвертом части&nbsp; третьей&nbsp; слово&nbsp; "вид"&nbsp; 
+заменить&nbsp; словом</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"указание";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+абзаце втором части пятой после&nbsp; слов:&nbsp; "компетентного&nbsp; 
+органа"</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дополнить словами: 
+"(компетентных органов)";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частью шестой следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Датой подачи&nbsp; заявки&nbsp; считается&nbsp; дата поступления в 
+Кыргызпатент</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">документов,&nbsp; 
+предусмотренных частью третьей настоящей статьи,&nbsp; а&nbsp; если</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">указанные документы 
+представлены не одновременно,&nbsp; то дата поступления</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">последнего из представленных 
+документов";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть седьмую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Требования к&nbsp; вышеназванным&nbsp; документам&nbsp; заявки&nbsp; и&nbsp; 
+порядок&nbsp;&nbsp; их</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">представления 
+устанавливаются Кыргызпатентом";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части шестую,&nbsp; седьмую считать&nbsp; соответственно&nbsp; частями&nbsp; 
+седьмой,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">восьмой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 22. 
+В статье 30:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; второй слова:&nbsp; "двух месяцев" заменить словами:&nbsp; 
+"одного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">месяца", слова: "по 
+собственной инициативе" исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+частях&nbsp; пятой и шестой слова:&nbsp; "двух месяцев" заменить 
+словами:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"одного месяца";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть седьмую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "По 
+результатам предварительной экспертизы заявка&nbsp; принимается&nbsp; 
+к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению&nbsp; 
+либо&nbsp; выносится&nbsp; решение&nbsp; об&nbsp; отказе&nbsp; в&nbsp; 
+принятии&nbsp; ее&nbsp; к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+статью дополнить частями восьмой и девятой следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "Об 
+отказе в регистрации наименования места происхождения&nbsp; товара</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителю направляется 
+уведомление.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; О 
+положительном результате предварительной экспертизы&nbsp; и&nbsp; о&nbsp; 
+дате</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подачи&nbsp; заявки,&nbsp; 
+установленной в соответствии со статьей 29 настоящего</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Закона,&nbsp; 
+заявителю&nbsp; направляется&nbsp;&nbsp; решение&nbsp;&nbsp; о&nbsp;&nbsp; 
+принятии&nbsp;&nbsp; заявки&nbsp;&nbsp; к</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">рассмотрению";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части восьмой слова:&nbsp; "в&nbsp; течение&nbsp; двенадцати&nbsp; месяцев&nbsp; 
+с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">принятия заявки к 
+рассмотрению" исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть девятую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "По 
+завершении&nbsp;&nbsp; экспертизы&nbsp;&nbsp; Кыргызпатент&nbsp; принимает&nbsp; 
+решение&nbsp; о</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">регистрации наименования 
+места происхождения товара&nbsp; и&nbsp; предоставлении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">права&nbsp; 
+пользования&nbsp; им&nbsp; или об отказе в регистрации наименования 
+места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения&nbsp; 
+товара&nbsp; и&nbsp; предоставлении&nbsp; права&nbsp; пользования&nbsp; им&nbsp; 
+либо</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">решение&nbsp; о&nbsp; 
+предоставлении&nbsp; права&nbsp; пользования&nbsp; уже 
+зарегистрированным</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименованием&nbsp;&nbsp; 
+места&nbsp;&nbsp; происхождения&nbsp;&nbsp; товара&nbsp;&nbsp; или&nbsp;&nbsp; 
+об&nbsp;&nbsp; отказе&nbsp;&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предоставлении права 
+пользования им";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части восьмую-десятую&nbsp;&nbsp;&nbsp;&nbsp; считать&nbsp;&nbsp;&nbsp;&nbsp; 
+соответственно&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; частями</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">десятой-двенадцатой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 23. 
+В статье 33:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp;&nbsp; первой&nbsp;&nbsp; слова:&nbsp;&nbsp; "в&nbsp; течение"&nbsp; 
+заменить&nbsp; словами:&nbsp; "до</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">истечения",&nbsp; 
+слова:&nbsp; "с даты поступления" заменить&nbsp; словами:&nbsp; "с&nbsp; 
+даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">подачи";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую&nbsp; после&nbsp; слов:&nbsp;&nbsp; "компетентного&nbsp;&nbsp; 
+органа"&nbsp;&nbsp; дополнить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словами: "(компетентных 
+органов)".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 24. 
+Статью 34 дополнить частью третьей следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Исправления очевидных&nbsp; и&nbsp; технических&nbsp; ошибок,&nbsp; допущенных 
+не по</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">вине заявителя,&nbsp; 
+вносятся Кыргызпатентом в Реестр и&nbsp; свидетельство&nbsp; на</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">право&nbsp; пользования 
+наименованием места происхождения товара без уплаты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">пошлины".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 25. 
+В статье 36:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp; 
+&nbsp;&nbsp;&nbsp;статью дополнить частью второй следующего 
+содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Использованием может быть признано также применение наименования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места происхождения товара в 
+качестве адреса в сети Интернет";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+часть вторую изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; "Не 
+допускается&nbsp; использование&nbsp; зарегистрированного&nbsp; 
+наименования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места&nbsp; 
+происхождения&nbsp; товара лицами,&nbsp; не имеющими свидетельства,&nbsp; 
+даже</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">если при этом указывается 
+подлинное&nbsp; место&nbsp; происхождения&nbsp; товара&nbsp; или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименование&nbsp; 
+используется&nbsp; в&nbsp; переводе&nbsp; либо&nbsp; в&nbsp; сочетании&nbsp; 
+с&nbsp; такими</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">выражениями,&nbsp; как 
+"род",&nbsp; "тип",&nbsp; "имитация" и тому подобными, а также</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">использование&nbsp; 
+сходного&nbsp; обозначения&nbsp; для&nbsp; любых&nbsp; товаров,&nbsp; 
+способного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">ввести потребителя в 
+заблуждение относительно&nbsp; места&nbsp; происхождения&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">особых свойств 
+товара";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+части вторую,&nbsp; третью&nbsp; считать&nbsp; соответственно&nbsp; 
+частями&nbsp; третьей,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">четвертой.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 26. 
+Статью&nbsp; 37&nbsp;&nbsp; после&nbsp;&nbsp; слов:&nbsp;&nbsp; 
+"предупредительную&nbsp;&nbsp; маркировку"</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">дополнить словами:&nbsp; "в 
+виде словесного обозначения "зарегистрированное</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименование места 
+происхождения товара" или "Рег. НМПТ,".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 27. 
+Статью 38 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 38. Признание&nbsp;&nbsp;&nbsp; регистрации&nbsp;&nbsp;&nbsp; 
+наименования&nbsp;&nbsp;&nbsp;&nbsp; места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+происхождения&nbsp;&nbsp; товара&nbsp;&nbsp; и&nbsp;&nbsp; свидетельства&nbsp; 
+на&nbsp; право</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+пользования наименованием места происхождения&nbsp; товара</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+недействительными</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Регистрация наименования&nbsp; места&nbsp; происхождения&nbsp; товара может 
+быть</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">признана недействительной в 
+течение всего срока ее действия,&nbsp; если она</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">была&nbsp; произведена&nbsp; 
+в&nbsp; нарушение&nbsp; требований,&nbsp; установленных&nbsp; 
+настоящим</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Законом.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Свидетельство на&nbsp;&nbsp;&nbsp; право&nbsp;&nbsp;&nbsp; 
+пользования&nbsp;&nbsp;&nbsp; наименованием&nbsp;&nbsp; места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения товара может 
+быть признано&nbsp; недействительным,&nbsp; если&nbsp; оно</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">было&nbsp; выдано в 
+нарушение требований,&nbsp; установленных настоящим Законом,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">или 
+в связи с&nbsp; признанием&nbsp; недействительной&nbsp; регистрации&nbsp; 
+наименования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места происхождения 
+товара.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Любое лицо может подать по основаниям,&nbsp; указанным в частях 
+первой</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">и 
+второй настоящей статьи,&nbsp; возражение против регистрации 
+наименования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места происхождения товара и 
+выдачи свидетельства на право пользования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименованием&nbsp;&nbsp; 
+места&nbsp; происхождения&nbsp; товара&nbsp; в&nbsp; Апелляционный&nbsp; 
+совет.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Возражение должно быть 
+рассмотрено в течение четырех&nbsp; месяцев&nbsp; с&nbsp; даты</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">его&nbsp;&nbsp; 
+поступления.&nbsp; Лицо,&nbsp; подавшее&nbsp; возражение,&nbsp; а&nbsp; 
+также&nbsp; обладатель</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">свидетельства имеют право 
+участвовать в его рассмотрении.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Решение Апелляционного&nbsp;&nbsp; совета&nbsp;&nbsp; может&nbsp; быть&nbsp; 
+обжаловано&nbsp; в&nbsp; суд</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителем в течение шести 
+месяцев с даты его получения".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 28. 
+Дополнить статьей 38-1 следующего содержания:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Статья 38-1. Прекращение действия регистрации наименования места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+происхождения&nbsp;&nbsp; товара&nbsp; и&nbsp; свидетельства&nbsp; на&nbsp; 
+право</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+пользования&nbsp;&nbsp; наименованием&nbsp;&nbsp; места&nbsp;&nbsp; 
+происхождения</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+товара</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Действие регистрации&nbsp;&nbsp; наименования&nbsp; места&nbsp; 
+происхождения&nbsp; товара</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">прекращается:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - в 
+связи с исчезновением характерных для данного географического</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">объекта условий и 
+невозможностью производства товара&nbsp; с&nbsp; указанными&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Реестре 
+свойствами;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - в 
+связи с утратой&nbsp; иностранными&nbsp; юридическими&nbsp; или&nbsp; 
+физическими</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">лицами&nbsp; права&nbsp; 
+на&nbsp; данное&nbsp; наименование&nbsp; места&nbsp; происхождения товара 
+в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">стране происхождения 
+товара.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Действие свидетельства&nbsp; на&nbsp; право пользования наименованием 
+места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения товара 
+прекращается:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - 
+в&nbsp; связи с прекращением действия регистрации наименования места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения товара&nbsp; 
+по&nbsp; основаниям,&nbsp; предусмотренным&nbsp; частью&nbsp; первой</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">настоящей статьи;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - в 
+связи&nbsp; с&nbsp; истечением&nbsp; срока&nbsp; его&nbsp; действия,&nbsp; 
+предусмотренного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">статьей 33 настоящего 
+Закона;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - в 
+связи с утратой товаром особых свойств, указанных в Реестре в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">отношении данного 
+наименования места происхождения товара;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - 
+при&nbsp;&nbsp;&nbsp; ликвидации&nbsp;&nbsp;&nbsp; 
+юридического&nbsp;&nbsp;&nbsp; лица&nbsp;&nbsp;&nbsp; или&nbsp;&nbsp;&nbsp; 
+прекращении</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">предпринимательской&nbsp;&nbsp; 
+деятельности&nbsp;&nbsp; физического&nbsp;&nbsp; лица&nbsp;&nbsp; - 
+&nbsp;владельца</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">свидетельства без 
+образования правопреемника;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; - 
+на&nbsp; основании&nbsp; заявления&nbsp; владельца свидетельства,&nbsp; 
+поданного в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Любое лицо по основаниям, предусмотренным частью первой и абзацем</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">четвертым части&nbsp; 
+второй&nbsp; настоящей&nbsp; статьи,&nbsp; может&nbsp; подать&nbsp; 
+возражение</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">против&nbsp;&nbsp;&nbsp; 
+прекращения&nbsp;&nbsp;&nbsp; действия&nbsp;&nbsp; регистрации&nbsp;&nbsp; 
+наименования&nbsp;&nbsp; места</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">происхождения&nbsp;&nbsp; 
+товара&nbsp;&nbsp; и&nbsp;&nbsp; свидетельства&nbsp;&nbsp; на&nbsp;&nbsp; 
+право&nbsp;&nbsp;&nbsp; пользования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">наименованием&nbsp;&nbsp; 
+места&nbsp; происхождения&nbsp; товара&nbsp; в&nbsp; Апелляционный&nbsp; 
+совет.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Заявление должно быть 
+рассмотрено в течение четырех месяцев с даты его</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">поступления.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Решение Апелляционного&nbsp; совета&nbsp; может&nbsp; быть&nbsp; 
+обжаловано&nbsp;&nbsp; в&nbsp;&nbsp; суд</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">заявителем в течение шести 
+месяцев с даты его получения".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 29. 
+Часть первую статьи 41 изложить в следующей редакции:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+"Использование товарного&nbsp;&nbsp; знака&nbsp;&nbsp; или&nbsp; 
+обозначения,&nbsp; сходного&nbsp; с</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарным знаком в отношении 
+однородных товаров, а также общеизвестного</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">товарного&nbsp; знака&nbsp; 
+или&nbsp; обозначения,&nbsp; сходного с ним,&nbsp; или наименования</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места происхождения товара 
+или обозначения,&nbsp; сходного с&nbsp; наименованием</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">места&nbsp; происхождения 
+товара в отношении любых товаров,&nbsp; противоречащее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">настоящему Закону,&nbsp; 
+влечет за собой гражданскую,&nbsp; административную или</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">уголовную&nbsp;&nbsp; 
+ответственность&nbsp;&nbsp; в&nbsp;&nbsp; соответствии&nbsp;&nbsp; с&nbsp;&nbsp; 
+законодательством</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской 
+Республики".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 3.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в&nbsp; <a href="/act/view/ru-ru/17?cl=ru-ru">Закон</a>&nbsp; Кыргызской&nbsp; 
+Республики&nbsp; "Об&nbsp; авторском&nbsp; праве&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">смежных правах" (Ведомости 
+Жогорку Кенеша Кыргызской Республики,&nbsp; 1998</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">г., 
+N3, ст.67) следующее изменение:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+пункте 1 статьи 3 слова:&nbsp; "Государственное агентство интеллекту-</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">альной&nbsp; 
+собственности&nbsp; при Правительстве Кыргызской Республики (далее -</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент)" заменить 
+словами:&nbsp; "уполномоченный государственный орган</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской Республики в 
+области интеллектуальной собственности (далее -</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызпатент)".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 4.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в&nbsp; <a href="/act/view/ru-ru/39?cl=ru-ru">Закон</a> Кыргызской Республики "О правовой 
+охране программ</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">для 
+электронных вычислительных машин и баз данных" (Ведомости&nbsp; 
+Жогорку</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кенеша&nbsp;&nbsp; 
+Кыргызской&nbsp;&nbsp; Республики,&nbsp;&nbsp; 1998&nbsp; г.,&nbsp; №4,&nbsp; 
+ст.129)&nbsp; следующее</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">изменение:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp;&nbsp; третьей&nbsp; статьи&nbsp; 2&nbsp; слова:&nbsp; 
+"Государственное&nbsp; агентство</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интеллектуальной 
+собственности при Правительстве Кыргызской Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(далее&nbsp;&nbsp;&nbsp; 
+-&nbsp;&nbsp;&nbsp; Кыргызпатент)"&nbsp;&nbsp;&nbsp; заменить&nbsp;&nbsp; 
+словами:&nbsp;&nbsp; "уполномоченный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">государственный орган 
+Кыргызской Республики в области интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности (далее - 
+Кыргызпатент)".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 5.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в <a href="/act/view/ru-ru/40?cl=ru-ru">Закон</a> Кыргызской Республики "О правовой охране 
+топологий</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интегральных&nbsp;&nbsp; 
+микросхем"&nbsp;&nbsp; (Ведомости&nbsp;&nbsp; Жогорку&nbsp;&nbsp; 
+Кенеша&nbsp;&nbsp; Кыргызской</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Республики, 1998 г., №8, 
+ст.228"а") следующее изменение:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp; второй&nbsp; статьи&nbsp; 2&nbsp; слова:&nbsp;&nbsp; 
+"Государственное&nbsp;&nbsp; агентство</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интеллектуальной 
+собственности при Правительстве Кыргызской Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(далее&nbsp;&nbsp; 
+-&nbsp;&nbsp; Кыргызпатент)"&nbsp;&nbsp;&nbsp; заменить&nbsp;&nbsp;&nbsp; 
+словами:&nbsp;&nbsp;&nbsp; "уполномоченный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">государственный орган 
+Кыргызской Республики в области интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности (далее - 
+Кыргызпатент)".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 6.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в&nbsp; <a href="/act/view/ru-ru/87?cl=ru-ru">Закон</a>&nbsp; Кыргызской&nbsp;&nbsp; 
+Республики&nbsp;&nbsp; "О&nbsp;&nbsp; правовой&nbsp;&nbsp; охране</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">селекционных&nbsp;&nbsp; 
+достижений"&nbsp;&nbsp; (Ведомости&nbsp;&nbsp; Жогорку&nbsp;&nbsp; Кенеша&nbsp; 
+Кыргызской</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Республики, 1998 г., N10, 
+ст.375) следующее изменение:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+части&nbsp;&nbsp; первой&nbsp;&nbsp; статьи&nbsp; 3&nbsp; слова:&nbsp; 
+"Государственное&nbsp; агентство</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интеллектуальной 
+собственности при Правительстве Кыргызской Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(далее&nbsp;&nbsp;&nbsp; 
+-&nbsp;&nbsp;&nbsp; Кыргызпатент)"&nbsp;&nbsp;&nbsp; заменить&nbsp;&nbsp; 
+словами:&nbsp;&nbsp; "уполномоченный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">государственный орган 
+Кыргызской Республики в области интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности (далее - 
+Кыргызпатент)".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 7.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Внести в&nbsp; <a href="/act/view/ru-ru/237?cl=ru-ru">Закон</a>&nbsp; Кыргызской Республики "О 
+служебных изобретениях,</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">полезных моделях,&nbsp; 
+промышленных образцах"&nbsp; (Ведомости&nbsp; Жогорку&nbsp; Кенеша</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Кыргызской Республики, 1999 
+г., N12, ст.542) следующее изменение:</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; по 
+всему&nbsp; тексту&nbsp; Закона&nbsp; слова:&nbsp; "предварительного&nbsp; 
+патента,"&nbsp; и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">"свидетельства" 
+исключить;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+пункте&nbsp;&nbsp; 2&nbsp;&nbsp; статьи&nbsp;&nbsp; 7&nbsp;&nbsp; 
+слова:&nbsp;&nbsp; "Государственное&nbsp;&nbsp; агентство</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">интеллектуальной 
+собственности при Правительстве Кыргызской Республики</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">(далее&nbsp;&nbsp; 
+-&nbsp;&nbsp; Кыргызпатент)"&nbsp;&nbsp;&nbsp; заменить&nbsp;&nbsp;&nbsp; 
+словами:&nbsp;&nbsp;&nbsp; "уполномоченный</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">государственный орган 
+Кыргызской Республики в области интеллектуальной</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">собственности (далее - 
+Кыргызпатент)";</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; в 
+пункте&nbsp; 6 статьи 8 и в статье 14 слово "свидетельства" заменить</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">словом "патента".</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; <a name="st_8"></a>Статья 8.</span></p>
+<p class="MsoNormal"><i><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;(Утратила силу в 
+соответствии с <a href="/act/view/ru-ru/111412?cl=ru-ru">Законом</a> КР от 23 июля 2016 года № 
+133)</span></i></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 9.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; До 
+приведения нормативных правовых актов Правительства Кыргызской</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">Республики,&nbsp;&nbsp; 
+министерств&nbsp;&nbsp; и&nbsp;&nbsp; ведомств&nbsp;&nbsp; 
+Кыргызской&nbsp;&nbsp; Республики&nbsp;&nbsp; в</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">соответствие&nbsp; с&nbsp; 
+настоящим&nbsp; Законом,&nbsp; применяются&nbsp; нормы действующих и</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">неотмененных нормативных 
+правовых актов.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Статья 10.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp; 
+&nbsp;&nbsp;&nbsp;Настоящий Закон вступает в силу с момента 
+опубликования.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Настоящий Закон&nbsp; применяется к правоотношениям,&nbsp; которые 
+возникли</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">со 
+дня вступления его в силу.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Правительству Кыргызской&nbsp; Республики&nbsp; привести&nbsp; свои&nbsp; 
+нормативные</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">правовые акты в соответствие 
+с настоящим Законом.</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;</span></p>
+<p class="MsoNormal"><span style="FONT-FAMILY: 'Courier New'; FONT-SIZE: 10pt">&nbsp;&nbsp;&nbsp;&nbsp; 
+Президент Кыргызской 
+Республики&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+А. Акаев</span></p>
+<p class="MsoNormal">&nbsp;</p></div>
+
+
+    
+</body>
+</html>

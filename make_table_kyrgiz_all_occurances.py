@@ -12,79 +12,11 @@ import multiprocessing
 from multiprocessing.pool import ThreadPool
 import threading
 from concurrent.futures import ThreadPoolExecutor
+from kyrgiz_functions import *
 
 
 
 
-def scroop_doc(data, key_terms, excpetion_terms):
-
-    dict_return = []
-    dict_return = dict(dict_return)
-    for word in data.split():
-        if any (x in word for x in key_terms):
-            word = word.replace(',', '')
-            if any (x in word for x in excpetion_terms):
-                continue
-            else:
-                if word in dict_return:
-                    dict_return[word] += 1
-                else:
-                    dict_return[word] = 1
-    return str(dict_return)
-
-def occurances(data, key_terms, excpetion_terms):
-    word_found = "---"
-    already_found = []
-
-    number_of_occurances = 0
-    number_non_unique_occurances = 0
-    for word in data.split():
-        if any (x in word for x in key_terms):
-            word = word.replace(',', '')
-            if any (x in word for x in excpetion_terms):
-                continue
-            else:
-                number_non_unique_occurances = number_non_unique_occurances + 1
-                if any (x in word for x in already_found):
-                    continue
-                else:
-                    number_of_occurances = number_of_occurances + 1
-                    already_found.append(word)
-    return number_of_occurances, number_non_unique_occurances
-
-def occurances_ration(data, key_terms, excpetion_terms):
-    word_found = "---"
-
-    #begin_title = data.find("<title>")
-    #end_title = data.find("</title>")
-    #begin_body = data.find("<pre>")
-    #end_body = data.find("</pre>")
-    #data = data[begin_title:end_title] + " " + data[begin_body:end_body]
-    number_of_occurances = 0
-    for word in data.split():
-        if any (x in word for x in key_terms):
-            word = word.replace(',', '')
-            if any (x in word for x in excpetion_terms):
-                continue
-            else:
-                number_of_occurances = number_of_occurances + 1
-    return ((1000.0 * number_of_occurances)/(int(len(data.split())+1)))
-
-
-def selector(name, key_terms, excpetion_terms):
-    word_found = "---"
-    counter = []
-    for i in range(0, len(key_terms)):
-        counter.append(0)
-
-    with open (name, "r") as myfile:
-        data=myfile.read()
-        for word in data.split():
-            if any (x in word for x in key_terms):
-                for i in key_terms:
-                    if (i == word):
-                        counter[key_terms.index(i)] +=1
-    return(key_terms[counter.index(max(counter))] + str(counter.index(max(counter)) - counter.index(min(counter))))
 
 def which_year(title):
     try:
@@ -171,7 +103,7 @@ def which_month(data):
     return month
 
 def which_date(title, all_data):
-    if ("в редакции законов" in all_data or "в редакции закона" in all_data):
+    if ("в редакции закон" in all_data):
         try:
             cyrilic_data = re.sub('[A-z]', '', all_data)
             left = cyrilic_data.find("в редакции законов")
@@ -315,7 +247,7 @@ def which_language(title):
 
 def which_law_number(title, data):
 
-    if ("в редакции законов" in data or "в редакции закона" in data):
+    if ("в редакции закон" in data):
         try:
             cyrilic_data = re.sub('[A-z]', '', data)
             left = cyrilic_data.find("в редакции законов")
@@ -424,7 +356,7 @@ def state_of_law(data, name):
         to_return = "оригинал"
     elif ("утратил силу" in data):
         to_return += "утратил силу"
-    elif ("в редакции закона" in data or "в редакции законов"):
+    elif ("в редакции закон" in data):
         to_return += " в редакции закона"
 
 
@@ -485,7 +417,6 @@ def check(name, index):
         data=myfile.read()
     data = data.lower()
     cyrilic_data = re.sub('[A-z&#<>;/\="-:%]', '', data)
-
     matches, non_unique_occurances = occurances(cyrilic_data, key_terms, excpetion_terms)
     #if (matches == 0):
         #a[index + 1][2] = 0
@@ -600,6 +531,7 @@ def check(name, index):
     a[index + 1][43] = scroop_doc(cyrilic_data, key_terms, excpetion_terms)
     a[index + 1][44], dummy = occurances(cyrilic_data, key_terms, excpetion_terms)
     a[index + 1][45] = occurances_ration(cyrilic_data, key_terms, excpetion_terms)
+    a[index + 1][47] = laws_referencing(data)
 
 
 current_law_name = ""
@@ -628,7 +560,7 @@ categories = ["Name of file", "Date", "year", "Law number", "type of law", "Lang
               "cat Ratio of occurances", "Religious Practice and Worship","Number of occurances",
               "cat Ratio of occurances", "Extremism/Terrorism","Number of occurances",
               "cat Ratio of occurances", "Penalties & Punishments","Number of occurances",
-              "Links"]
+              "Links", "Laws Referencing", "Already Used"]
 try:
     a = np.genfromtxt('file_path.csv', delimiter=',')
     print("found in dir")
@@ -699,8 +631,9 @@ df.to_csv("Kyrgistan_all_data.csv")
 writer = pd.ExcelWriter('kyrgiz_data.xlsx')
 df.to_excel(writer)
 writer.save()
-
-for year_sort in range(1990, 2020, 1):
+df.to_pickle("all_years.pkl")
+'''
+for year_sort in range(2005, 2008, 1):
     b = np.chararray(shape = (1, len(categories)), itemsize=1100, unicode = True)
     for iterator, category in enumerate (categories):
         b[0][iterator] = category
@@ -708,14 +641,14 @@ for year_sort in range(1990, 2020, 1):
         if (a[row][11] == str(year_sort)):
             print(b.shape)
             print(a.shape)
-            print(a[row:row+1, 0:47].shape)
-            b = np.append(b, a[row:row+1, 0:47], axis = 0)
+            print(a[row:row+1, 0:48].shape)
+            b = np.append(b, a[row:row+1, 0:48], axis = 0)
     df = pd.DataFrame(b)
-    df.to_csv(str(year_sort) + ".csv")
-    writer = pd.ExcelWriter(str(year_sort) + ".xlsx")
+    df.to_csv("data_files/" + str(year_sort) + ".csv")
+    writer = pd.ExcelWriter("data_files/" + str(year_sort) + ".xlsx")
     df.to_excel(writer)
     writer.save()
-
+'''
 
 #print(a.dtype)
 #print(a)
